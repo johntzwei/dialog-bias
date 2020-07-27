@@ -1,0 +1,3 @@
+[submodule "Switchboard-Corpus"]
+	path = Switchboard-Corpus
+	url = https://github.com/NathanDuran/Switchboard-Corpus
