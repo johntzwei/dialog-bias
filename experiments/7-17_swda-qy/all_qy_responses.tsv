@@ -1,0 +1,972 @@
+B|do you have kids?|qy	A|I have three.|na
+A|Do you work now?|qy	B|I don't know|no
+B|Do you have to have any special training?|qy	A|Not,|%
+A|So, uh, do you happen to be working for a large firm?|qy	B|Well, it's about three hundred and fifty people.|no
+A|Well, have you ever served on a jury?|qy	B|No,|nn
+A|Well have you ever served on a jury?|qy	B|No|nn
+A|Have you ever served on a jury before?|qy	B|Uh, I have twice.|na
+A|So, uh, are you, uh, are you, uh, active in translation?|qy	B|Uh, we will be.|no
+B|Well, you like classical music?|qy	A|Yes.|ny
+B|you know what I mean?|qy	A|Uh-huh.|ny
+B|Are you married at all?|qy	A|No|nn
+B|Well, do do you watch music television, M T V at all? Or V H One?|qy	A|Yeah|b
+B|do, do you get cable?|qy	A|No.|nn
+A|Are you, are you married?|qy	B|Uh, no.|nn
+B|You know what I'm saying?|qy	A|Yeah.|ny
+B|Do you have any elderly relatives currently in an, uh, nursing home now?|qy	A|Yes,|ny
+A|do you have like a household?|qy	B|Yes.|ny
+B|Any  particular reason?|qy	A|Well, no.|nn
+B|you know what I mean?|qy	A|And society probably, too.|^2
+A|Do you all have a budget?|qy	B|Well, uh, yeah,|ny
+B|Do you have a two income family or one income?|qy	A|Uh, we have a two income uh family.|sd
+B|So do you have a family too?|qy	A|Uh, I've got one little girl.|na
+A|You know what I  mean?|qy	B|Right.|na
+A|So, do you, your privacy being invaded at any time?|qy	B|Well, uh, one of the things that, uh, that I found to be, uh, an invasion is when I pay for something with a credit card and they ask me to put my telephone number on the, on the, uh, credit card bill.|sv
+B|should we move?|qy	A|Let me move as far away  as possible.|sd
+A|are you on any kind of, uh, regular exercise plan?|qy	B|I, I, yeah, I'm, yeah, I, I do aerobics, uh, step classes and, uh,  toning classes,|na
+A|Do you have any pets?|qy	B|Yes,|ny
+B|Probably not nachos and dip, huh?|qy	A|No.|nn
+B|So, have you ever served on a jury?|qy	A|I served,|sd
+A|Have you ever served on one?|qy	B|Yeah,|ny
+A|Um, are you working right now?|qy	B|Uh, yes,|ny
+B|Lynn, do you, do you want to start?|qy	A|Certainly.|na
+B|Oh, do you like L A?|qy	A|Uh, I'm, I'm, I'm very unusual.|h
+B|have you seen ROBIN HOOD yet?|qy	A|No,|nn
+A|Is your wife better, I hope?|qy	B|Uh, no she passed away.|ng
+B|do you use a computer?|qy	A|And,|%
+B|Do we pay too much?|qy	A|Right.|b
+B|Well, do we?|qy	A|What do you do?|qw
+B|Do you pay too much?|qy	A|Uh, well, no,|nn
+B|You know what I mean?|qy	A|Yeah.|ny
+A|Are, are, is America, I mean are we pretty, pretty steep compared to most countries?|qy	B|Actually, I don't think we are.|ng
+A|You want to go first?|qy	B|No,|nn
+A|you know what I mean?|qy	B|Right.|na
+B|Are you in Dallas also?|qy	A|No,|nn
+B|you said San Antonio, right?|qy	A|Uh-huh.|ny
+A|Do you know?|qy	B|No,|nn
+A|Do you do a lot of gardening?|qy	B|Uh, landscaping is more, than the gardening,|no
+A|Do you have any tips you could give me?|qy	B|Um, my favorite one is putting on the, um, tomato plant is to put, uh, dust,|sd
+A|Well, do you have any children?|qy	B|I've got one.|na
+A|So are you from Texas?|qy	B|Yeah.|ny
+A|Um, you say you watch evenings mostly?|qy	B|I watch evenings because I work all day.|sd
+B|Did you send one?|qy	A|Yeah.|ny
+B|Do you own a computer?|qy	A|Um, well I sort of own a computer.|no
+B|Do you work for T I?|qy	A|No,|nn
+B|Are you at home now?|qy	A|Yeah,|ny
+A|And, um, what did, did you ever try using like Prodigy or any of those systems?|qy	B|No,|nn
+A|Do you have children?|qy	B|No.|nn
+A|did you have anything else?|qy	B|No,|nn
+B|Do you, have you ever had to put your children in,  child care, Mary Dell?|qy	A|Oh yes.|ny
+B|Do you like rap?|qy	A|Um, some of it, um,|no
+A|Are you ready to start?|qy	B|Sure am.|na
+B|Do you work for Texas Instruments?|qy	A|No,|nn
+A|Are you  a movie buff?|qy	B|Um, yeah.|ny
+A|do you have a V C R?|qy	B|Yes,|ny
+B|Do you see HOOSIERS?|qy	A|Yes.|ny
+A|Have you seen GREEN CARD?|qy	B|That would be pretty good.|sv
+A|You think you'd, you think you'd, uh, go up in space if you had a chance?|qy	B|Oh, yeah|ny
+B|you know what I mean?|qy	A|Uh-huh.|ny
+B|Let me ask you something, can I run a minute and shut my radio off?|qy	A|Oh, sure.|na
+A|now, do you work?|qy	B|I'm going to school right now.|sd
+A|But you know  who I mean?|qy	B|Yeah,|ny
+B|So you live in Utah do you?|qy	A|Yes,|ny
+A|Don't you like cats?|qy	B|Well, I like cats.|sd
+B|Have, have you had dogs before?|qy	A|Uh, my brother has.|sd
+A|Is your cat a purebred?|qy	B|No.|nn
+A|Uh, I guess a year ago you're probably watching C N N a lot, right?|qy	B|Right|na
+B|Are you  Mormons?|qy	A|Yeah.|ny
+B|so, you do recycle, don't you?|qy	A|Oh, yeah.|ny
+A|Are you, uh, involved at all?|qy	B|Uh, no.|nn
+A|Are you ready now?|qy	B|Yes.|ny
+A|are you, are you in Dallas?|qy	B|No,|nn
+A|Do you go to Berkeley?|qy	B|No,|nn
+A|So, are, are you going to go for your Doctorate?|qy	B|Probably not.|nn
+A|have you started your garden yet?|qy	B|Yes.|ny
+B|For forty dollars?|qy	A|For forty dollars.|na
+A|All right, do you do exercise?|qy	B|I do,|na
+B|Do you like, like Southwestern?|qy	A|Oh, yeah.|ny
+A|Do you, do you like boating?|qy	B|Yeah,|ny
+B|Did you go fishing?|qy	A|No,|nn
+A|Have you been sailing?|qy	B|Uh, yeah,|ny
+B|Huh. What do you take, I Thirty-five?|qy	A|No,|nn
+A|Do you work at T I?|qy	B|I don't,|ng
+A|Have you ever been to, uh, like New Mexico?|qy	B|Uh, no, actually.|nn
+B|Why,  have you?|qy	A|I was curious.|sd
+A|Do you go to museums in Europe?|qy	B|Uh, actually, no,|nn
+A|have you ever been to Hawaii?|qy	B|Uh, no,|nn
+A|Do you, for example, like San  Antonio  in Dallas?|qy	B|Uh,|%
+A|and do you have a family?|qy	B|Uh, yes I am to, uh, both questions.|ny
+B|Do you play every day?|qy	A|Yeah,|ny
+A|Have you, have you ever done anything at all?|qy	B|Yeah,|ny
+A|You want to start?|qy	B|Well, I guess I would first identify myself as middle aged|sd
+A|Do you work for T I?|qy	B|No.|nn
+A|Does your son work for T I?|qy	B|No.|nn
+B|Do you have kids?|qy	A|no,|nn
+B|Do you smoke?|qy	A|So much smoke in the air.|sd
+A|Do you  enjoy cooking?|qy	B|Sometimes, not all the time|na
+B|Do you have any?|qy	A|Sure.|na
+A|Do you have a pet now?|qy	B|Yeah,|ny
+A|Do you repair your own car?|qy	B|I try to, whenever I can.|na
+A|Well, have you seen a new movie lately?|qy	B|Well, uh, I am a student|sd
+A|Uh, have you seen PRETTY WOMAN?|qy	B|Yes.|ny
+A|Have you ever used Discover card?|qy	B|No,|nn
+A|Well, Do you have anything else to say?|qy	B|Well,|%
+A|By your house?|qy	B|on my house|arp_nd
+A|do, do you also?|qy	B|No.|nn
+A|uh, you ready to begin?|qy	B|We might as well.|na
+A|Have you thought about, uh, leasing?|qy	B|Well, uh, I have thought about it,|na
+A|Uh, do you work for Texas Instruments?|qy	B|No,|nn
+B|I was just wondering, were you in SAC by any chance?|qy	A|Um.|%
+B|Were you in SAC?|qy	A|In Tak?|br
+B|Would you ever buy a used car for a new car for yourself?|qy	A|Buy a, you, buy a used car?|br
+A|Mean private enterprise?|qy	B|Huh?|br
+B|Did puppy go to?|qy	A|Well the puppy jumped in the, into some of the pools but not into the,|sd
+A|Have you served on a jury?|qy	B|Never.|ng
+B|Have you ever been drug tested?|qy	A|Um, that's a good question.|arp_nd
+B|Well, did you go to college?|qy	A|Yes,|ny
+B|Do you just have one son?|qy	A|Yes.|ny
+B|Well, do you do a lot of dining out?|qy	A|No, um,|nn
+B|Have you ever been to Biffin's?|qy	A||%
+A|small world, huh?|qy	B|Yeah.|ny
+A|So have you done any painting projects lately?|qy	B|Yeah,|ny
+A|Did you have, uh, one coat or two?|qy	B|Uh, two, actually|sd
+A|I don't know how long we're supposed to carry on a conversation, do you?|qy	B|It's three minutes,|sd
+B|We're to talk about what, lawns and gardens?|qy	A|Lawn and garden work and what you enjoy and what kind of work you do.|sd
+B|Do you have any children?|qy	A|Uh, they're all grown up.|arp_nd
+A|Well, lots, right?|qy	B|Right|na
+A|Do you live in Plano?|qy	B|Yes,|ny
+B|Have you had yours now?|qy	A|Yes.|ny
+B|I was going to say, not fun kind, right?|qy	A|No, um,|nn
+A|Have you ever read anything by Susan Howatch?|qy	B|Yes,|ny
+B|and I've often wondered why, haven't you?|qy	A|Yes|ny
+B|Uh, have you, uh, gotten into SCARLETT yet?|qy	A|No,|nn
+B|Oh, you don't like Howse,  huh?|qy	A|No,|nn
+B|You  do, huh?|qy	A|Well|arp_nd
+B|Are you not teaching anymore?|qy	A|Uh, no,|nn
+B|Do you like, uh, uh, Iowa?|qy	A|Um, oh, it, there's some good things about it|arp_nd
+A|Uh, do you play any instrument yourself?|qy	B|Yes,|ny
+B|so. Have you, do you have a computer for yourself at home?|qy	A|No.|nn
+B|You  are you in business for yourself?|qy	A|No.|nn
+A|You must be a T I employee?|qy	B|No,|nn
+B|Do you by any chance?|qy	A|Oh, yes.|ny
+B|do you read?|qy	A|Vociferously.|na
+B|Do you work for T I?|qy	A|No,|nn
+A|do you have any air pollution in your area?|qy	B|There's not really a lot here in Raleigh.|ng
+A|Well, have we spent our at least five minutes?|qy	B|Yeah|ny
+A|Well, do you own a P C?|qy	B|No,|nn
+B|Do you like to cook?|qy	A|I love it.|sd
+A|Do you work?|qy	B|Yes.|ny
+A|What is, uh, is a marsala wine a sweeter wine?|qy	B|Yeah,|ny
+A|Uh, do you like angel food cake?|qy	B|Yes.|ny
+A|Do you, do you garden or not?|qy	B|No|nn
+A|Have you ever seen any put out by Junior Leagues?|qy	B|Yes.|ny
+B|Do you usually get a message?|qy	A|Yeah.|ny
+A|So, in Maryland are you, uh, are you a Skins fan?|qy	B|Um, well, not, not really from, you know,|ng
+A|so, uh, uh, you know, did you graduate from Purdue?|qy	B|No,|nn
+A|Do you have any children?|qy	B|No.|nn
+B|Do you live in Plano or work in Plano, or both?|qy	A|Both.|sd
+B|Are you at work right now?|qy	A|Uh-huh.|ny
+A|Are you a native to Texas?|qy	B|No,|nn
+B|So you're probably, uh, a Baltimore fan, right, an Oriole fan?|qy	A|Uh, actually I'm a Red Sox fan more than anything.|no
+A|Do you know  offhand?|qy	B|Box seats  run from, oh, like eight dollars to twelve dollars.|sd
+A|Weren't you guys,  supposed to get a stadium in downtown Dallas?|qy	B|Well, that didn't go over,  now.|sd
+A|Do you have any pets now?|qy	B|Oh, I sure do,|na
+B|do you have any pets?|qy	A|Well at the present time I have two dogs.|sd
+B|Do you have to give those?|qy	A|Well I could have,|na
+A|And is, um, Stripper an inside cat, or outside?|qy	B|Oh, well he's outside|sd
+A|Well, have we been talking five minutes?|qy	B|I'm not for sure.|no
+A|Do you like to make your own guacamole?|qy	B|Uh, yeah.|ny
+A|Are you driving?|qy	B|Yeah,|ny
+A|Do you have  recycling in Sachse?|qy	B|Yes,|ny
+A|But, uh, do you recycle?|qy	B|Um, my kids do|na
+A|do you subscribe to magazines yourself?|qy	B|I don't, uh, subscribe to any magazines at home, because we get so many at work that, uh, I need to read that, uh, I just don't take any at home.|sd
+A|Do you have any hobbies?|qy	B|Yes,|ny
+A|Are you married?|qy	B|Um, yes.|ny
+A|Now, do you actually follow a budget?|qy	B|Well, we pretty well do.|sd
+B|Do you, um, buy from dealers or from individuals?|qy	A|Generally from dealers,|sd
+A|Do you have children of your own?|qy	B|Oh, no,|nn
+A|Oh, are you?|qy	B|Uh-huh.|ny
+A|Are you from North Carolina?|qy	B|No,|nn
+A|well, Tad's going to come back, I bet, do you think?|qy	B|Yeah,|ny
+A|Do you want to start?|qy	B|Uh, you hit, you hit, uh,|sd
+A|Kind of strange to you all, huh?|qy	B|Yeah.|ny
+B|Did you, uh, require more than one can of paint?|qy	A|I, we put two coats on it,|sd
+A|Do you have any children?|qy	B|Yeah,|ny
+A|you were, you were tested for drugs as you got into T, as, as you got into T I?|qy	B|Right,|na
+A|But, uh, have you had any major repairs recently?|qy	B|Well, um, on this car I've got now, no,|ng
+B|Do you work for T I?|qy	A|No.|nn
+A|Have you had any lately go out?|qy	B|Yeah,|ny
+A|What is, do you know what your state income tax rate is?|qy	B|Um, no|nn
+A|So, can you dress pretty casually?|qy	B|Um, on occasion. On occasion.|na
+A|do, do you work for T I in any way?|qy	B|No,|nn
+A|Well, are you doing any kind of volunteer work now?|qy	B|Not right now,|ng
+A|Have you ever read any of Frank E Peretti's?|qy	B|Frank E|b^m
+A|you know, do you work for T I?|qy	B|No,|nn
+B|Do you ever keep any of your stuff?|qy	A|Isn't that funny.|qh
+A|Um, do you have children?|qy	B|Yes,|ny
+A|uh, do you work?|qy	B|Yeah,|ny
+B|Well, have you ever, uh, had a family reunion?|qy	A|Yes,|ny
+B|So, do you have a big family?|qy	A|Well, he does|na
+A|But, you know what you can do?|qy	B|Huh?|qw
+B|Are you an Orioles fan?|qy	A|Um, the, the team I live and die with actually is the Red Sox, mostly die,|ng
+B|Do you want to start?|qy	A|Yeah,|aa
+B|You, you watch many?|qy	A|Uh, it depends, um, you know, it depends on|no
+A|did you ever  see SILVERADO?|qy	B|SILVERADO,|b^m
+A|you, you said you seen NO WAY OUT?|qy	B|Yeah,|ny
+B|Did you see GOODFELLAS?|qy	A|No,|nn
+A|You're in, uh, what Flower Mound?|qy	B|Flower Mound,|na
+B|have you just recently moved to Charlotte?|qy	A|Um,|%
+A|Do you work at T I?|qy	B|Yeah.|ny
+A|Do you. Do you, uh, do you know Alec Morton?|qy	B|Yeah,|ny
+B|Are you D A D or something?|qy	A|Yeah|ny
+A|so. Did you have carpets and stuff?|qy	B|Oh, several of our rooms got ruined,|no
+A|Have you, have you cycled, recycled plastic also?|qy	B|No,|nn
+B|Are you, in Washington D C or Washington state?|qy	A|Well, yeah.|b
+A|you know what I'm saying?|qy	B|Yeah.|ny
+A|So you're going to watch a game tonight?|qy	B|oh yeah,|ny
+A|Do you work for T I?|qy	B|No,|nn
+B|Do you have children?|qy	A|Yes,|ny
+A|do you have children?|qy	B|Uh, we have four,|na
+A|You ever been to Houston's on Belt Line?|qy	B|No.|nn
+B|I mean do you stay not in one place too long?|qy	A|No,|nn
+B|Uh, do you have children in school?|qy	A|No,|nn
+A|Oh, and you've always,  lived in Texas, have you?|qy	B|Yeah,|ny
+B|You guys, are you guys getting snow?|qy	A|We,|%
+A|And your kids all ski?|qy	B|Uh, not all of them|ng
+B|had to wear dresses, didn't you?|qy	A|and then you had to, go to dresses,|sd
+A|Uh, do you live in a home?|qy	B|Yes.|ny
+A|Do you, do you have children?|qy	B|Just one.|sd
+B|and, uh,  Did you teach in California?|qy	A|No kidding.|b
+B|Well, have have you, do you have an interest in genealogy?|qy	A|Uh, I do, but not to, very much compared to my mother-in-law.|na
+A|did you receive information from your skiing magazine?|qy	B|Probably not.|ng
+A|what, do you do artistic painting?|qy	B|Uh, I do tole painting.|ng
+A|do you sell your projects?|qy	B|Uh, mostly I have just given them away as gifts.|ng
+A|well, do you cut out your own projects?|qy	B|Yes,|ny
+B|So do you have a car?|qy	A|Pardon?|br
+B|Do you have a car?|qy	A|Well, at that time, actually, I had a Volkswagen Rabbit|sd
+A|so you bought a Pontiac?|qy	B|huh-uh.|nn
+B|Uh, do you also get dental?|qy	A|Yes.|ny
+B|Have you, are you a Civil War buff at all?|qy	A|Yeah, as a matter of fact,|ny
+B|do you like scary things?|qy	A|Um, well, some history, books are pretty scary,|^h
+A|A, a Freddy Kruger type, huh?|qy	B|No,|nn
+A|Your name is Lynn?|qy	B|Linda.|ng
+B|Do you like Ken ?|qy	A|Um. Trying to think.|^h
+A|did you see SIXTY MINUTES tonight, by any chance?|qy	B|No,|nn
+A|Have you seen those?|qy	B|I, you know, I've got one of those in Brian's room.|sd
+A|Do you go camping very much?|qy	B|No,|nn
+B|Do you have a boat?|qy	A|No.|nn
+A|Am I pretty Texan?|qy	B|You're pretty Texan.|na
+B|Are you a, a native Texan?|qy	A|I sure am.|na
+B|Have you ever been to Austin?|qy	A|Yes,|ny
+B|Have you ever camped out of state?|qy	A|No,|nn
+A|Well do you, you, you say you haven't been in years?|qy	B|No,|nn
+A|Do you need to go?|qy	B|Well, um, I'm going to listen.|arp_nd
+A|I mean, don't you think?|qy	B|I, most wholeheartedly agree.|na
+B|Do you want to go first?|qy	A|You can go first,|oo_co_cc
+A|Have you ever had crawfish?|qy	B|Uh, no,|nn
+B|Oh, well, do you do cajun cooking?|qy	A|Oh, yeah.|ny
+B|But, uh, do you have to have a certain skillet,  or  something?|qy	A|Huh-uh.|b
+A|I cook mine, well, do you have a, uh, like a black iron skillet?|qy	B|I did have.|ng
+B|Do you have any pets?|qy	A|Um, we got two cats.|na
+A|So, you don't have anything right now?|qy	B|No,|nn
+B|Oldies or what?|qy	A|Yeah,|ny
+B|Are you talking about a, a real river, creek?|qy	A|No|nn
+A|Do you have a lot of property, I mean a lot of yard around your house now, in Denton?|qy	B|Uh, it's a third of an acre.|no
+B|You all both, you all both work downtown?|qy	A|I got layed off by T I|arp_nd
+A|Have you  absentee  voted  in, in  in Texas?|qy	B|No  .|nn
+B|did you not press one?|qy	A|I did press one,|na
+B|Oh, a hundred and forty mile trip?|qy	A|No,|nn
+B|Do you work for T I?|qy	A|Yes|ny
+B|All for a thousand dollars?|qy	A|Uh-huh.|ny
+B|Do you have children?|qy	A|Uh, yes,|ny
+B|Do you want to talk?|qy	A|Well, I think that you carried forth your subject matter very well, uh, Nickie.|sv
+A|Well, do you have any pets?|qy	B|Yes|ny
+B|so do you have any pets now?|qy	A|Yes,|ny
+B|so, we started recording already?|qy	A|Uh, I guess,|no
+B|Oh, so you pressed one?|qy	A|Right.|na
+B|Do you like professional basketball?|qy	A|Uh, I, I follow it especially around the playoffs,|na
+A|Are, are you, uh, able to get, uh, sometimes a double crops of, of certain things in your garden?|qy	B|Yes,|ny
+B|So you, you all actually had some color, huh?|qy	A|Oh, yeah,|ny
+B|Do you follow football very much?|qy	A|I'm sorry, what?|br
+B|Do you follow football very much?|qy	A|I don't,|na
+A|Are you married?|qy	B|Yeah,|ny
+A|So do you like football?|qy	B|Oh, I follow the, uh, the Cowboys|no
+A|Do you live in Dallas?|qy	B|Yeah,|ny
+B|Have you ever been to a Cowboy's game?|qy	A|I haven't,|ng
+A|Are you in San Antonio?|qy	B|No,|nn
+A|do we have to speak for a certain amount of time?|qy	B|No,|nn
+B|only, only five?|qy	A|Yeah.|ny
+A|Are, you're a real life Trekkie?|qy	B|I think so|na
+B|Well, do you do any recycling?|qy	A|Uh, we do here.|na
+A|You you shouldn't be lonesome on a holiday, huh?|qy	B|Because I came with a split family|sd
+A|You think you're getting your money's worth?|qy	B|Uh, never|ng
+A|What, like, Sequoia National Park?|qy	B|Uh-huh.|ny
+A|do you have any pets now?|qy	B|Well, we don't right now,|ng
+A|a matter of choice, or compulsion?|qy	B|Well, we've just, uh,|%
+B|But you like, uh, you like pets and things?|qy	A|Oh, I love animals.|na
+A|Charleston, West Virginia?|qy	B|Yes,|ny
+B|Hills, or what?|qy	A|Uh, well, from my neck of the woods, it's hilly.|sd
+A|Your  family have reunions on a regular basis?|qy	B|Probably, once every five years.|no
+A|Once every five years?|qy	B|Uh-huh.|ny
+A|Martin, do you do any exercise?|qy	B|Yes,|ny
+B|Do you do, uh, any anaerobic type, weight lifting or weight training type exercise?|qy	A|No,|nn
+A|have you ever had to plan a family reunion?|qy	B|Uh, yes|ny
+B|but. Do you own a gun?|qy	A|No.|nn
+B|Oh, you can  actually rent those?|qy	A|Yeah.|ny
+B|Like south of Tampa, right?|qy	A|Yeah.|ny
+B|Did you both work? Your wife too?|qy	A|No,|nn
+B|What am I afraid of?|qy	A|Yes.|ny
+A|And a lot more games, right?|qy	B|Yeah,|ny
+A|Well, have you ever played baseball?|qy	B|I played softball.|no
+A|have you taken any incoming calls?|qy	B|yours is my second one.|na
+A|Do you read?|qy	B|Not very much,|ng
+A|You saw FIELD OF DREAMS, right, a long time ago?|qy	B|Yeah,|ny
+A|Well, do you think we covered baseball?|qy	B|I think so|na
+A|Have you, have you, uh, done, um, done a lot of tree surgeon work on your trees or not?|qy	B|No,|nn
+B|Think we've talked long enough?|qy	A|I think so|na
+A|Do you have one?|qy	B|No,|nn
+A|Do you have a garden?|qy	B|Uh, yes.|ny
+B|Do you have, do you have a rotor tiller?|qy	A|No.|nn
+B|Do you grow those, those ten, fifteen Y?|qy	A|Yes,|ny
+A|Did you exercise between your first child and your second?|qy	B|I exercised pretty well up until I found, uh, until I was pregnant,|na
+A|Do you have a garden?|qy	B|I've got, the,|%
+B|Do you have, uh, do you have a family?|qy	A|Yeah,|ny
+A|we have, we all have those kind of dreams too, don't we?|qy	B|Yeah.|ny
+A|Have you seen WILD ORCHID?|qy	B|No,|nn
+B|Do you know which one yours was?|qy	A|I, I have to say that probably the one movie that really threw me back the most, uh, that I was really the most in shock with was probably, uh, STAR WARS.|sd
+A|Actually did you see DIRTY ROTTEN SCOUNDRELS?|qy	B|Yes,|ny
+A|Now did you see, uh, DRIVING MISS DAISY?|qy	B|Yeah,|ny
+B|You, you're, you're from California, right?|qy	A|Uh-huh.|ny
+B|L A area?|qy	A|Uh, no.|nn
+A|Well, do you have any?|qy	B|Yes,|ny
+B|did you call?|qy	A|Buddy.|sd
+B|Do you exercise on a regular basis?|qy	A|Um, well, I try to.|na
+A|You really think so?|qy	B|Yeah,|ny
+A|to commute to work?|qy	B|Yes,|ny
+A|You weren't home?|qy	B|Uh,|%
+A|Um, are you in college right now?|qy	B|No.|nn
+A|Are bases safe, you know?|qy	B|Bases are pretty safe because they check your I D on your way in.|sd
+A|are you from Boston?|qy	B|Yeah.|ny
+A|Are you into, Larry McMurtry?|qy	B|No, I I hadn't.|ng
+A|Do you go back?|qy	B|I have not gone back lately.|ng
+A|Do you have any children?|qy	B|No,|nn
+A|is Coppell a nice area to live?|qy	B|Oh, it's a wonderful place to live,|na
+A|Well, do you have any pets?|qy	B|Oh, of course, those are my kids|na
+A|Was a Visa card?|qy	B|Yeah.|ny
+B|you have to really have your car winterized and stuff, huh?|qy	A|Yeah.|ny
+B|Been to Hawaii?|qy	A|No,|nn
+A|Around Christmas time?|qy	B|Uh, no,|nn
+B|So do you go to school in Provo, Utah?|qy	A|I do.|na
+B|Do you know?|qy	A|I don't,|no
+B|Do you go to school?|qy	A|Uh-huh.|qy
+B|Do you ski?|qy	A|I ski, yes.|ny
+B|so you're a sophomore. Or junior?|qy	A|I am actually a junior. Beginning of my junior year.|sd
+A|well, do you have a pet?|qy	B|I have two cats. And do, and, oh, and two fish.|na
+B|Do you have kids?|qy	A|Oh yeah.|ny
+A|A boy and a girl?|qy	B|Two boys.|ng
+B|Do you have horses?|qy	A|No|nn
+B|You've come a long way baby?|qy	A|Baby,|b^m
+A|do you have a P C?|qy	B|Yes,|ny
+B|Uh, are you using windows?|qy	A|No,|nn
+A|have you done much camping?|qy	B|Uh, yes.|ny
+B|Do you know what  armadillo is?|qy	A|Oh.|b
+A|Do you like any bluegrass?|qy	B|Uh, no.|nn
+B|Do you like rap music?|qy	A|Not really|ng
+A|You don't like Patsy Cline?|qy	B|Huh?|br
+A|So, uh, have you seen any concerts lately?|qy	B|Um. Uh,|%
+B|Were you sailboating?|qy	A|Yeah,|ny
+B|You think your chances are better?|qy	A|Uh, well, actually I think in most criminal cases it wouldn't make any difference whether it was a couple of judges or jury|arp_nd
+B|Have you ever had to serve jury duty?|qy	A|well I was called once when I was nineteen|no
+B|All done by yourself, huh?|qy	A|I had  a friend with a tractor who dug the pier holes|sd
+B|so. Does T I have a pretty good retirement package, do you think?|qy	A|I think they have, uh, one that we need to recognize that we're going to have to supplement ourselves.|na
+B|A type of work station?|qy	A|Yeah,|ny
+B|Have you been, uh, struggling along those lines?|qy	A|Well, um, I seem to always be in the, the next to the last generation of word processing software.|no
+A|so your a homemaker?|qy	B|Yeah.|ny
+A|Have you gotten your catalog yet?|qy	B|No,|nn
+A|Are you a player?|qy	B|Uh, I, I think I am.|na
+B|Are you a sports fan?|qy	A|I can't handle it very long.|no
+B|do you watch SATURDAY NIGHT LIVE at all?|qy	A|I try to.|na
+A|do you know?|qy	B|Oh, I'm thinking around twenty or twenty-five dollars.|sd
+B|do you like to go to movies?|qy	A|Yeah|ny
+B|I guess vegetables are in, like in pots and stuff?|qy	A|No,|nn
+A|do you have any pets?|qy	B|Yeah,|ny
+B|Do you want to start?|qy	A|I can go ahead and start,|na
+B|do you know?|qy	A|I'm not sure what it is there.|no
+B|we are to compare homes. Correct?|qy	A|Okay.|b
+A|are you close to Sevren?|qy	B|No,|nn
+A|So you've received a lot of, uh, flack?|qy	B|They don't, they don't even check my Social Security number.|no
+A|so do you do a lot of cooking in your family?|qy	B|Um, I do some every now and then,|ng
+B|Including a printer?|qy	A|Well, actually I wasn't including a printer,|arp_nd
+B|a respectable one?|qy	A|Yes,|ny
+A|Are you ready?|qy	B|Yeah.|ny
+B|Do you know?|qy	A|Yeah,|b
+A|Do you have children at home?|qy	B|No,|nn
+A|Do you work to T I?|qy	B|Uh-huh.|ny
+A|have you, did you, have you grown up in Dallas, Stephanie?|qy	B|Uh, no|nn
+A|Are you a, you a hiker, or not?|qy	B|Uh,|^h
+A|Not so much, huh?|qy	B|Not, not really so much.|ng
+A|You have any children?|qy	B|No,|nn
+A|Well, Steve, did you go to college?|qy	B|Yeah.|ny
+B|To a parent?|qy	A|Yeah.|ny
+B|Now if you just lose, if you just skip one election?|qy	A|No,|nn
+A|Are you in Plano?|qy	B|Yes.|ny
+A|As a freshman?|qy	B|Yeah.|ny
+A|Do you have a personal computer?|qy	B|We have one.|na
+A|You do, in your home?|qy	B|Yes,|ny
+A|Um, would you like me to go first?|qy	B|Sure.|na
+B|Are you a hacker?|qy	A|You bet.|na
+B|Have you ever, have you ever tried a one iron?|qy	A|No,|nn
+A|Well, do you exercise regularly?|qy	B|There is,|%
+B|Oh, well, does a boar taste just like regular ham?|qy	A|Yep,|ny
+B|Do you watch any of those?|qy	A|I, well, I don't, because I work all day.|ng
+B|Well, now, do you work for T I?|qy	A|Yeah,|ny
+A|Do you have any mountains nearby?|qy	B|No|nn
+A|Uh, are you presently looking, uh, for a used car?|qy	B|Well, as a matter of fact, I just bought one|ng
+A|Right or wrong?|qy	B|Uh, okay,|na
+A|Do you have, uh, a special  flowers?|qy	B|Well  flower gardens.|no
+B|do you have any children?|qy	A|Yes,|ny
+B|uh, are you going to, uh, put your son in child care in a, a year or two?|qy	A|Uh, probably. Uh,|na
+A|You have any pets?|qy	B|Do I have pets?|br
+B|Uh, have you every been tested for a new job or anything?|qy	A|Uh, no|nn
+B|Do you follow professional sports at all?|qy	A|Well, I just started to this year because of these silly Raiders that didn't do very well|na
+B|Now,  have you ever been to a professional football game?|qy	A|Yeah,|ny
+B|Uh, do you have children  in school?|qy	A|I do.|na
+A|A lot of testing?|qy	B|Uh, well it seems to me that kindergarten is now the equivalent of first grade.|no
+A|Do you, do you listen to Gary Cogill?|qy	B|No. Huh-uh. *two utts|nn
+A|You're a student?|qy	B|Yeah,|ny
+A|Do you like to cook?|qy	B|Yes,|ny
+B|Do you do barbecues?|qy	A|Yes,|ny
+A|and so, well, you have a family, right?|qy	B|Yeah,|ny
+A|And does, does your wife work?|qy	B|No.|nn
+A|And so, and you have a monthly budget?|qy	B|Well, sort of.|no
+A|And did you know John Sununu is, uh, half Arab?|qy	B|No, uh,|nn
+A|So are you ready?|qy	B|I'm ready.|na
+B|Oh, were you really, trying to find someone at home?|qy	A|Yeah.|ny
+A|You, y'all work at T I?|qy	B|I do.|na
+B|So you work in back grind ?|qy	A|Yeah.|ny
+B|And do you ?|qy	A|Right|na
+B|You lost your business?|qy	A|Yep.|ny
+B|Well, you weren't charging gold and silver were you?|qy	A|Oh, yeah.|ny
+B|Oh, you can?|qy	A|Oh, yeah,|ny
+B|You mean fifty-five dollars?|qy	A|Yeah,|ny
+B|you could have got a discount, couldn't you?|qy	A|Yeah,|ny
+B|So you're on Spring Break?|qy	A|Not yet.|ng
+B|So you're working on your doctorate?|qy	A|Yeah.|ny
+A|Well, did you get good results?|qy	B|Well, no,|nn
+A|have you, have you tried matching paint lately?|qy	B|No,|nn
+A|have you had problems getting colors to match?|qy	B|Yeah.|ny
+B|Do you have children?|qy	A|Uh, yes.|ny
+B|do you think we are, setting a trend?|qy	A|I don't,|sd
+B|are you talking, outside or inside?|qy	A|Exterior.|sd
+A|Um, so do you have a personal computer?|qy	B|Uh, well we do have one in, in our home, uh,|sd
+B|Did you use Word Perfect?|qy	A|Um, no,|nn
+A|Do you exercise a lot?|qy	B|Oh, it's uh, scaled back considerably.|no
+B|Did you really?|qy	A|Yes,|ny
+A|Ready to talk?|qy	B|I guess so|no
+A|do you all, uh, have a budget?|qy	B|Well, we've been married for five and a half years|sd
+B|Do you like your job?|qy	A|Sometimes.|no
+B|Do you have  a family?|qy	A|Yeah,|ny
+B|And Colorado Springs?|qy	A|Yeah,|ny
+B|Did you see PRETTY WOMAN?|qy	A|No,|nn
+A|do you watch soap operas?|qy	B|Uh, once in a while, when I'm home.|na
+B|Well did you see FATAL ATTRACTION?|qy	A|Yeah,|ny
+A|Did you see HOME ALONE?|qy	B|Yes,|ny
+B|do you own your house?|qy	A|Uh, right,|na
+B|So you teach in Plano schools?|qy	A|Yeah,|ny
+A|Do you have children?|qy	B|Uh, yes.|ny
+A|do you know?|qy	B|Oh, I don't know.|no
+A|Do you have a boat?|qy	B|No,|nn
+B|Do you have bass?|qy	A|Yes, uh,|ny
+A|Ready to get started?|qy	B|Uh, yeah,|ny
+B|do you want me to go first?|qy	A|Sure.|na
+A|Oh, no kidding?|qy	B|Yes,|ny
+A|Have you, have you received many?|qy	B|I haven't here lately.|no
+B|What, what kind do you subscribe to or do you?|qy	A|Well, I subscribe to well, I did subscribe to PEOPLE for a long time.|sd
+A|are you interested in, in computers?|qy	B|And my pet peeve with magazines is all the little cards inside. And the cardboard pages|sd
+A|So you just barely moved away?|qy	B|Uh-huh|ny
+A|So you just moved away a year ago?|qy	B|Uh, in August.|na
+A|Do you have any?|qy	B|Um, I don't know,|no
+A|Did you go to school in Plano?|qy	B|I did.|na
+A|Are you a Cowboy fan?|qy	B|Well, I used to be a real big Cowboy fan|no
+B|Do you have pets?|qy	A|Yes,|ny
+A|so you enjoy camping?|qy	B|Oh, yeah.|ny
+A|like, would you go over and spend a lot of time in one place, or travel to whole bunch of different places in one week?|qy	B|Well, usually a bunch of different places.|sd
+A|have you, have you ever, have you ever been mugged in Atlanta?|qy	B|Uh, no.|nn
+A|do you have any special interest in, uh, space flight?|qy	B|Oh yeah.|ny
+A|I guess, I guess by what you said you're, you don't feel your, uh, privacy has been invaded anytime recently?|qy	B|No,|nn
+B|is our five minutes up?|qy	A|Uh, pretty close to it.|na
+A|How about, um, Pink Floyd?|qy	B|Sure,|na
+A|Did, did you go to college?|qy	B|Well, no.|nn
+A|Do you have a family?|qy	B|Uh, yeah.|ny
+B|North, south, east, or west?|qy	A|It's north of Sherman.|sd
+B|For East Texas or something?|qy	A|Yeah,|ny
+B|or do you go out?|qy	A|Both.|sd
+B|Did, uh, did, like, did you go to Disneyland?|qy	A|Oh,  yes,|ny
+B|I guess as far north as you are if you like gardening, you've still got a couple months to go, haven't you?|qy	A|Oh, yeah.|ny
+A|So you don't have a lot of tree coverage?|qy	B|So we don't have,|ng
+A|do you like to exercise because you want to or because you have to?|qy	B|No,|nn
+A|do you do a lot of camping?|qy	B|Well, my husband and I haven't done a whole lot of camping,|ng
+B|have you ever used those?|qy	A|Oh, yeah,|ny
+B|did you actually live in Saint Louis?|qy	A|I lived in the suburbs of Saint Louis,|sd
+A|no Texas Rangers?|qy	B|after that, if you asked me that I wouldn't have been able to tell you if that was football or baseball.|sd
+A|You know what I mean?|qy	B|Yeah.|ny
+A|Are you still employed?|qy	B|Am I still employed by T I,|qy
+A|Exempt or ?|qy	B|Exempt.|sd
+A|do you vote regular?|qy	B|Yeah,|ny
+B|so have you ever voted at all?|qy	A|No,|nn
+A|Do you know what I mean?|qy	B|Yeah,|ny
+B|You didn't get any government classes?|qy	A|Huh-uh.|nn
+A|Do you know what I mean?|qy	B|Yeah,|ny
+B|Do you know what I'm saying?|qy	A|Right.|b
+B|are you married or anything?|qy	A|No,|nn
+A|Oh, you mean for like smog and stuff?|qy	B|Uh-huh,|ny
+A|Do you, uh, smoke?|qy	B|Um, actually, I'm a very, I just smoke one in the evening if that.|na
+B|do you know my grandparents live in Durant?|qy	A|They do?|qy^d
+B|Do you smoke?|qy	A|Yeah,|ny
+A|What you mean, my voice?|qy	B|Yes.|ny
+A|Have you ever seen those?|qy	B|Oh, yeah.|ny
+B|You want blue?|qy	A|and blue looks so pretty against it.|sv
+B|so, uh, you live in Dallas?|qy	A|Yes,|ny
+A|Are, are you in a house?|qy	B|Yeah,|ny
+B|now, did you push one?|qy	A|Yeah, uh,|ny
+A|So, anyway. Do you have children?|qy	B|No,|nn
+A|Do you have a lot of traffic in your area?|qy	B|Um, it can get busy,|na
+A|Are you at work?|qy	B|Yes,|ny
+A|do you know?|qy	B|Uh, as an area, it's not,|%
+A|And so are you an airline pilot?|qy	B|Yes,|ny
+A|So I imagine, have you skied before?|qy	B|Well, we've skied,|na
+A|Do you think you would be able to do some more if you had more tools and different tools?|qy	B|Uh, well, yeah,|ny
+B|What are, are you settled in a place?|qy	A|Yeah,|ny
+B|you, are you from Florida originally?|qy	A|No,|nn
+A|You guys central?|qy	B|How is the weather up there?|qw
+A|Well, you're not a starving artist, yet, are you?|qy	B|Oh, no,|nn
+A|Are you eating?|qy	B|Uh, I|%
+A|I'll let you start first, okay?|qy	B|Okay.|na
+B|well, have you any plans to, uh, maybe, uh, expand or move onward?|qy	A|no,|nn
+A|have you ever served as a juror?|qy	B|Never.|ng
+A|Do, would you prefer all trials by a judge?|qy	B|No,|nn
+A|Well, did, um, were you able to get one while you're in college?|qy	B|Um, I don't think I ever tried.|ng
+A|You, are you sure you didn't leave your refrigerator door open?|qy	B|I'm sure I didn't.|na
+A|Are you married?|qy	B|Yes.|ny
+A|I mean, you didn't go out and charge a whole bunch and lose everything, did you?|qy	B|no,|nn
+A|Are you ready?|qy	B|I guess so.|na
+A|And, do you have a housekeeper?|qy	B|No|nn
+B|Oh, uh, by choice?|qy	A|It was about, uh, oh, three feet long, about three feet long.|sd
+B|Well can we ask you whatever happened to Clyde?|qy	A|Well, yeah,|ny
+A|are you married?|qy	B|Yes.|ny
+A|do you  guys smoke?|qy	B|We don't either.|ng
+A|Don't you have to take like labels off of those jars?|qy	B|No,|nn
+B|do you play any instruments?|qy	A|I play, I play piano,|na
+B|Do you work for T I?|qy	A|No,  uh,|nn
+A|Is Contact a,  substance?|qy	B|No.|nn
+A|Did you get your pizza taken care of?|qy	B|Yeah,|ny
+A|did you see TWIN PEAKS?|qy	B|Huh-uh,|nn
+A|Are you sure?|qy	B|Yeah.|ny
+A|What do I do?|qy	B|Uh-huh.|ny
+A|Do you want to tell me about your budgeting plan?|qy	B|Yeah,|ny
+B|You into mainframes?|qy	A|and P C s.|sd
+B|Well, have you had any good ideas yet?|qy	A|No|nn
+A|Do we get our money's worth?|qy	B|Hey, listen, if I had my way, I wouldn't pay my taxes.|sd
+A|did you see SIXTY MINUTES last night?|qy	B|No,|nn
+B|Do you know what I mean?|qy	A|Yes.|ny
+A|Do you have any?|qy	B|Yes,|ny
+A|can you hold on just for a second?|qy	B|Sure.|na
+B|A, a three twenty-eight G T S?|qy	A|And I couldn't tell you|no
+A|Did you take kids along?|qy	B|No,|nn
+A|so do you all keep a budget?|qy	B|No,|nn
+A|do you think we're paying too much?|qy	B|Yes and no.|no
+B|Well, are you going to buy a car soon?|qy	A|Well, it won't be too much longer because my husband and I are both going to retire.|sd
+B|did you, did you go to Florida in a van?|qy	A|As though|%
+A|Well do you have a family budget?|qy	B|No,|nn
+A|Well, how about you, are you an exercise fanatic?|qy	B|No.|nn
+A|So, do you fish?|qy	B|Oh, yeah.|ny
+A|Uh, from a boat or from shore?|qy	B|From the dock, from shore.|sd
+A|A real light line, real light rig?|qy	B|Yeah.|ny
+B|Oh, you fish upstream?|qy	A|Right.|na
+A|So, do you work?|qy	B|Yes,|ny
+B|Uh, once a week, twice a week?|qy	A|Oh, at least once a week.|sd
+B|So, have you eaten crawfish yet?|qy	A|Uh, I tried it,|na
+A|Uh, so, have you ever used outside child care?|qy	B|No,|nn
+A|Do you know had a I'm saying?|qy	B|Well, even educated play, uh, supervised play, can teach without,|sv
+B|Do you work full time?|qy	A|Yeah.|ny
+A|Do you live in Dallas?|qy	B|Yeah,|ny
+A|do you have any pets?|qy	B|Yes,|ny
+A|Well, you got any more?|qy	B|Well, the big key is that, I think you've already stated, that all music is rooted in the classics|sv
+A|Do you work?|qy	B|Yes,|ny
+B|Do you do a lot of fishing?|qy	A|Do you go out,|qy
+B|Do your kids and everything like to?|qy	A|Yes,|ny
+B|Did you have people coming from far away?|qy	A|No.|nn
+A|What are you hoping for, a boy or a girl?|qy	B|It doesn't matter, just a healthy baby.|sd
+A|Uh, got kids?|qy	B|No.|nn
+A|Do you play?|qy	B|Yeah,|ny
+B|Do you think our government agencies should test?|qy	A|Yeah,|ny
+B|do you have two children?|qy	A|I have two.|na
+A|Uh, do you have a pet Randy?|qy	B|Uh, yeah,|ny
+A|A poodle, miniature or, uh, full size?|qy	B|Yeah,|ny
+B|um, have you ever been involved in any trials?|qy	A|I sure was.|na
+A|Have you guys tackled your ceilings yet?|qy	B|Uh, a little bit,|na
+A|On your baseboards?|qy	B|Yeah,|ny
+B|You want to start?|qy	A|Um, yeah.|ny
+A|Do you understand?|qy	B|No.|nn
+B|Did you get your catalog on your, your gifts?|qy	A|No.|nn
+B|Are, are you involved in music?|qy	A|Uh, no,|nn
+B|So, is your husband a singer?|qy	A|Well, just an amateur singer.|na
+B|uh, well, do you have children?|qy	A|No,|nn
+B|well do you know something?|qy	A|What?|qw
+A|what are you, uh, for, in favor or no comment?|qy	B|I'm very much in favor of gun control.|sd
+A|You say you retired a year ago?|qy	B|Yes,|ny
+A|Are you in Dallas?|qy	B|Yeah,|ny
+B|are any of your kids driving age yet?|qy	A|Uh, two fourteen year olds will be, uh, fifteen on the fourth of July|na
+A|Do you watch sports much on T V?|qy	B|Yeah,|ny
+A|Do you have cable T V?|qy	B|No, uh,|nn
+A|are you a musician yourself?|qy	B|Uh, well, I sing.|na
+A|do you sing in, in a choir or a choral group?|qy	B|Oh, not right now.|ng
+A|Um, are, do you have a family?|qy	B|Um, I'm married.|na
+B|now, now we're supposed to talk about music?|qy	A|Right.|na
+B|Um, do you go to, do you go to listen to much live music?|qy	A|Pardon me?|br
+B|You know, you know whom I'm talking about?|qy	A|Yes.|ny
+A|Do you like Randy Travis?|qy	B|I mean, I've, I've probably heard him,|sd
+A|Oh, Hank Williams Junior?|qy	B|Nope,|nn
+A|Have you done any recently?|qy	B|Well, we, uh, remodeled a bathroom. And, which required, uh, completely repainting the bathroom,|sd
+B|Just sun exposure?|qy	A|I don't think it's sun exposure,|ng
+B|You use a particular brand or anything?|qy	A|Well, I like to use this, this Sears, uh, the ten year guarantee or the fifteen year guarantee.|sd
+A|Do you, uh, have you ever used an oil base paint?|qy	B|Uh, used oil base paints for trim you know, like around doors and, and on doors, things like that.|na
+A|Uh, have you ever done any painting outside?|qy	B|Uh, quite a bit,|na
+A|Mostly for word processing type things?|qy	B|Uh, yeah,|ny
+A|Did you buy a program to handle menus?|qy	B|Uh, it came with a menus program,|sd
+A|Uh, what are you studying in college  computers?|qy	B|Uh.  Computer engineering.|sd
+A|do you know?|qy	B|I'm not sure.|no
+B|you have young children, right?|qy	A|Uh-huh.|ny
+B|You ever seen anybody kill a chicken?|qy	A|No,|nn
+A|so, uh, do you own a P C?|qy	B|Um, no,|nn
+B|Well, have you done much camping around Texas?|qy	A|Well, not really because usually it's when we go off, you know, like for a couple weeks or so.|ng
+B|Do you have children?|qy	A|Uh, yes.|ny
+A|Do you work for T I?|qy	B|Uh-huh,|ny
+A|Do you sew at all?|qy	B|I used to, uh,|ng
+B|You think so?|qy	A|Yeah,|ny
+A|you have a bonus?|qy	B|Bonus,|b^m
+B|do you do your own, uh,  lawn in terms of,  uh, mowing?|qy	A|Lawn?|^2
+A|So, do you play golf at all?|qy	B|Yeah,|ny
+B|Well, have you played recently?|qy	A|No,|nn
+B|I mean, are you in school?|qy	A|I'm a graduate student,|sd
+A|do you, uh, think we should go metric?|qy	B|Well, I, I, oh, I don't know.|no
+A|Are you at work?|qy	B|Yes.|ny
+B|Uh, does Dallas have a curbside recycling program yet?|qy	A|Um, well, I don't know Dallas,|no
+A|Uh, do you have any experience in, uh, finding child care?|qy	B|Well, ourselves, we have I guess never had to look for child care.|ng
+B|Do you read a newspaper?|qy	A|I read my newspaper.|na
+B|Have you ever, uh, read or subscribe to CONSUMER REPORTS for any length of time?|qy	A|No,|nn
+A|Do you see what I mean?|qy	B|Yeah.|ny
+A|You, you, you watch those games?|qy	B|Oh, yeah,|ny
+B|Well, do you do, do you do recycling?|qy	A|Uh, we do the recycling,|na
+B|Well, do you drink soda and such in aluminum cans?|qy	A|Yes,|ny
+B|Well, do you exercise regularly, Judy?|qy	A|Um, I try to ride the stationary bicycle every day about five miles|na
+B|So, can I just ask you, are you Canadian?|qy	A|No,|nn
+A|you know what I'm saying?|qy	B|Yes.|ny
+B|Are you in a apartment or a home?|qy	A|I'm in an apartment in, uh, Plano.|sd
+B|have you ever been to Houston?|qy	A|Oh, yeah.|ny
+A|You ever thought about building a house?|qy	B|Pardon me?|br
+A|Have you ever thought about building a house?|qy	B|Yeah,|ny
+A|Do you work?|qy	B|Pardon me?|br
+A|Do you work?|qy	B|Yes,|ny
+A|do you have kids?|qy	B|No,|nn
+A|On A B C?|qy	B|I don't know|h
+B|Do you ever watch AMERICAN GLADIATORS?|qy	A|Oh, I have.|na
+B|You're in New York?|qy	A|Yes.|ny
+B|Your news is on at eleven?|qy	A|Yes.|ny
+A|so, does your prime time start at seven o'clock?|qy	B|No,|nn
+B|do you work for T I?|qy	A|No.|nn
+A|I  mean, basically?|qy	B|Basically, no.|nn
+B|You have mountains all around you?|qy	A|Uh, no,|nn
+B|And your car is on a ferry?|qy	A|Yes.|ny
+A|Okay, um, do you like to cook?|qy	B|Well, I love to cook as a matter of fact I'm making dinner right now|na
+A|I mean are you single do you cook every night for yourself?|qy	B|No,|nn
+A|well like if you were having a dinner party what, would you cook a variety of things, I mean, you know, vegetarian and nonvegetarian?|qy	B|Yeah,|ny
+B|Have you made pasta before?|qy	A|Uh-huh.|ny
+B|Oh, do you have a wok though?|qy	A|Yeah,|ny
+A|Don't you wish you had been able to, though?|qy	B|I really do.|na
+A|You went and planted a tree or something?|qy	B|Yeah.|ny
+A|you know what I mean?|qy	B|You'll,|%
+B|Well, we learned from KRAMER VERSUS KRAMER, didn't we?|qy	A|Something like that.|sd
+B|and do you have children?|qy	A|Yeah.|ny
+A|Do you know what I mean?|qy	B|Yeah.|ny
+A|do you know?|qy	B|I don't know.|h
+A|Do you like specials?|qy	B|Well, last night, for example, I really would have liked to have watched UNSOLVED MYSTERIES.|na
+A|You know what I mean?|qy	B|Well, she was grumpy to begin with.|sd
+A|Are you one who gives dinner parties very often?|qy	B|No.|nn
+A|Um, do you do much camping?|qy	B|I have never been camping|ng
+B|Do you do much?|qy	A|Well, um, yes and no,|no
+A|And you're not going?|qy	B|No,|nn
+A|Have you ever tried Chinese type green beans?|qy	B|The Chinese type.|b^m
+B|Does your club have a good woman's association?|qy	A|Yes,|ny
+A|Do you work?|qy	B|Yes,|ny
+B|Oh, you do, you do actually, uh, grow a garden to produce food?|qy	A|Yes.|ny
+A|do you participate in family reunions?|qy	B|I did for years.|na
+A|Have you been to any lately?|qy	B|I have, I was trying to think of the one I went to a couple of weeks ago,|sd
+B|Are you from Texas?|qy	A|Well, sort of.|na
+A|Were you all transferred?|qy	B|Yeah|ny
+A|Uh, PRESUMED INNOCENT?|qy	B|Yes.|ny
+A|are you a BIBLE fan, too?|qy	B|Uh, I, I do my share of it.|na
+A|you want me to start off?|qy	B|Yeah,|ny
+B|Is, uh, a cruise nicer than, uh, if you just go, on a regular, uh, you know, to a hotel?|qy	A|Oh, yeah.|ny
+A|Uh, read any good books lately?|qy	B|Uh, yes,|ny
+A|Uh, do you find do you find you have much chance to read for, for just pleasure or mostly for business?|qy	B|No,|nn
+A|Do you make sweaters and things or just blankets?|qy	B|Well, if I remember I think we made some, like Christmas stockings,|sd
+B|So you don't have too much time for hobbies?|qy	A|No,|nn
+B|So, um, have you sang at any weddings yet?|qy	A|Yeah,|ny
+B|Uh, do your kids go to Garland High, you said?|qy	A|No,|nn
+A|Do you have relatives over in Israel?|qy	B|No,|nn
+A|Do you ever want to go over to Israel?|qy	B|Yeah,|ny
+B|Eastern Have you ever had those?|qy	A|No,|nn
+A|but I guess customers too, huh?|qy	B|And, I think a great number of students who got word of it and participated in general and voiced who heard about the program.|sv
+A|Some appliances breaking or something?|qy	B|No,|nn
+A|So, have you got, uh, land?|qy	B|No,|nn
+A|T I would pay to move you?|qy	B|I don't know|h
+A|Do you snow ski?|qy	B|Uh, a little bit, little bit,|na
+B|but, do you keep trying anyway?|qy	A|I keep trying, uh, you know,|na
+B|You understand what I am saying?|qy	A|That's right.|aa
+B|so you enjoy gardening?|qy	A|Oh, yeah,|ny
+A|or do you have to start all over every year?|qy	B|Yeah,|ny
+A|Do you have any strong opinions?|qy	B|Yeah,|ny
+B|so didn't get any choices at all?|qy	A|No,|nn
+A|Do you think?|qy	B|Yeah,|aa
+B|you guys I believe in Texas you don't have state tax, do you?|qy	A|No,|nn
+A|Anyway, do you have a pet?|qy	B|I had a cat,|na
+A|do you have children?|qy	B|Yeah,|ny
+B|well, did you ever see HOME ALONE?|qy	A|No,|nn
+A|Do you do a lot of camping?|qy	B|Well, I have done camping in the past.|na
+B|Do you do most of yours in tents?|qy	A|Yeah,|ny
+B|Are you on, you on any leagues now?|qy	A|No,|nn
+B|Hotter than usual?|qy	A|Yeah,|ny
+A|Did you see GHOST?|qy	B|Yes.|ny
+B|Well, do you go to many movies more than once?|qy	A|Um, if I see them more than once, I see them on video.|na
+B|Did you plant those yourself?|qy	A|Uh-huh.|ny
+B|You have to have a pretty good frame, don't you, to do any kind of quilting work?|qy	A|Yeah.|ny
+B|Um, have you had a family reunion recently?|qy	A|Yes,|ny
+B|Are you both from Utah originally?|qy	A|No,|nn
+B|do you work for Texas Instruments?|qy	A|No,|nn
+B|Do you have to watch what you eat pretty regularly?|qy	A|I do.|na
+B|Um, in your opinion, good or bad, or both?|qy	A|Well, both, you know,|sd
+B|So how many children do you have at home?|qy	A|I have two little ones|sd
+B|Oh, do you like those detective stories?|qy	A|Yeah.|ny
+A|And you have a shop?|qy	B|Well it, it is not anything elaborate.|na
+B|Uh, I wonder if you can construe raising children as being a hobby?|qy	A|Well, you know one of the books that I did, that I was reading,|sd
+B|But, uh, you think you'd buy, uh, an American car or a European or Japanese?|qy	A|Well, I, actually I don't know a lot about different brands.|sd
+A|Are we tonight?|qy	B|Yeah.|ny
+A|You know, uh, did you get to go fishing very often?|qy	B|Oh yeah.|ny
+B|In, In Nebraska?|qy	A|Yeah.|ny
+B|do you see any out for us?|qy	A|Well, I would think that, uh, information held on records, uh, by any company or charge card dealer or person should be absolutely private and, and not be allowed to be, uh, to, given out by those companies.|na
+B|You don't get  any newspapers?|qy	A|Newspapers?|br
+A|you know  what I'm  saying?|qy	B|Right.|b
+A|Do you do Tex-Mex?|qy	B|Um, yeah,|ny
+A|Do you go camping?|qy	B|Yeah.|ny
+B|Like a week at a time or just weekends?|qy	A|I think the longest we've stayed out there is like five days.|sd
+A|So do you work for T I?|qy	B|Uh, well, I work as a temporary in the Speech Lab.|na
+A|In a Speech Lab?|qy	B|Uh-huh.|ny
+B|Have you ever camped on sand?|qy	A|Um, no.|nn
+B|do you have a budget you live by?|qy	A|Well, I guess I do,|na
+A|Do you listen to radio talk shows?|qy	B|Sometimes I have.|na
+A|Do you watch L A LAW?|qy	B|No,|nn
+A|Even at your age?|qy	B|Well, like my younger brothers and sisters at home.|arp_nd
+A|Um, do you work in private corporation or government?|qy	B|I did work in government.|sd
+B|do you consider yourself a liberal?|qy	A|Um I would say I'm probably liberal|na
+B|So, are you really from Texas though?|qy	A|Yeah,|ny
+A|My voice you mean?|qy	B|Yeah.|ny
+B|Are you serious?|qy	A|Uh-huh.|ny
+A|a boy or?|qy	B|One of each.|sd
+B|Do you have a, do you have any, uh, major preferences as far as television?|qy	A|T V, uh,|^h
+B|Do you watch cartoons a lot?|qy	A|No.|nn
+B|B I R D?|qy	A|Right.|na
+B|So, you're at Baylor?|qy	A|No,|nn
+A|So are you a professional musician?|qy	B|No,|nn
+B|Are you just saying you, you sight read every concert?|qy	A|Uh, well, it's not really sight reading when you've done it, you know, again and again and again,|arp_nd
+B|Well, do you, um, are you working for T I?|qy	A|No,|nn
+A|You work at T I?|qy	B|No|nn
+A|Do you use celery seed in your tuna fish?|qy	B|No|nn
+B|are you a musician at all?|qy	A|Yeah|ny
+B|So do you like romantic music?|qy	A|Well, that is what, that is mostly the rest of good trumpet marks are romantic music, Mahler and Ruckner and Strauss|no
+B|Do you like opera?|qy	A|Uh, I like, I am liking it more and more now.|na
+B|do you know John Qumenato?|qy	A|Yeah.|ny
+B|have you had any former Suzuki students?|qy	A|I don't have any Suzuki students. Uh,|ng
+B|Well, you were in Peru?|qy	A|Yeah,|ny
+A|And you know how much you're going to drive every week?|qy	B|Well, I used to, um, I used to know, uh, fairly close to exactly how many miles I drove, because I, I was very convenient, I lived, uh, nine tenths of a mile from work.|no
+B|do you, do you drink adult beverages?|qy	A|Yeah,|ny
+A|And are we still going to maintain drams for perfume?|qy	B|Yeah.|ny
+A|Will a shot be an ounce?|qy	B|I don't know.|no
+B|are you talking about cutting equipment or tools for for set up?|qy	A|Uh, tools for set up and for measurement.|sd
+B|Oh, Patrick Swayze?|qy	A|Yeah,|ny
+B|were you at Baylor?|qy	A|and I just didn't take as much advantage of it as I should have.|sd
+B|did you go to Baylor?|qy	A|No,|nn
+B|Could you have snow?|qy	A|Uh, probably not.|nn
+B|Are you in an agricultural area?|qy	A|Yes,|ny
+A|Are you ready to start?|qy	B|Yes.|ny
+A|Do you listen Do you listen to W R R?|qy	B|Uh-huh.|ny
+A|Do you have any particular places you like going?|qy	B|Oh, there's a restaurant called String Bean on Spring Valley and Central.|na
+A|Are you ready?|qy	B|Uh-huh.|ny
+A|Do you have a preference if you were going to, eat a fast food?|qy	B|Well, we like Arby's. As far as, fast food goes.|na
+B|For one person?|qy	A|Yes.|ny
+A|do you want to start?|qy	B|Okay,|aa
+B|Do you know?|qy	A|Oh, I think we can hang up anytime|sd
+A|Uh, do you work for, uh, Texas Instruments?|qy	B|Yes,|ny
+A|So, are you a news person?|qy	B|Uh, I really am,|na
+B|you, you you like N P R uh, programming?|qy	A|Uh, in general.|na
+B|Uh, so you are in, uh, in part of a band?|qy	A|Uh, I play at Church.|na
+B|So, so you just sew everything up, huh?|qy	A|Yeah|ny
+B|Uh, do you do any kind of painting or anything?|qy	A|No,|nn
+A|Have you ever been to Marlin?|qy	B|Uh, yeah.|ny
+A|Do you have a big yard?|qy	B|No,|nn
+B|Do do you do your own gardening?|qy	A|Uh-huh.|ny
+A|Oh, did, well, did, does your wife ever make, uh, bake in a hot bacon dressing, like for, salad?|qy	B|No.|nn
+A|Not a grub worm?|qy	B|It's not like a,|%
+B|You live in Pennsylvania?|qy	A|Yes|ny
+A|Are you in Texas, now?|qy	B|Yeah.|ny
+B|you try to go and take a vacation every year and go out and camp?|qy	A|Yeah.|ny
+A|What, black ones?|qy	B|Yeah.|ny
+B|So, uh, do you think Russia's still a threat?|qy	A|Well, I guess I'm maybe naive,|^h
+A|Do you work at T I?|qy	B|Yeah,|ny
+A|did I, didn't we push?|qy	B|Did we,|qy^d
+B|Well, do you but do you think Gates should resign?|qy	A|I think, though, that it should still be, uh, sort of up to the majority in the area.|sv
+A|did you ever play much basketball?|qy	B|Not much.|ng
+A|you all just had a tornado, uh, over close to Oklahoma and Texas?|qy	B|Yeah,|ny
+B|Have, have you gone straight through?|qy	A|Yes,|ny
+B|Are you pursuing a Master's or a Doctorate?|qy	A|I'm pursuing a Doctorate in Psychology.|sd
+A|Do you work for Texas Instruments?|qy	B|My husband does.|ng
+B|Probably most people you talk to do, huh?|qy	A|Most of them do.|na
+B|You, did all five of yours complete college?|qy	A|No,|nn
+A|did you go to college?|qy	B|Yeah,|ny
+A|One tablespoon of worcester?|qy	B|Uh-huh.|ny
+A|are you a summer person?|qy	B|I'm a summer person|na
+A|Have you faced, uh, elderly care yet, uh, nursing home care for any of your parents?|qy	B|Unfortunately, yes.|ny
+A|Wouldn't you really like to know?|qy	B|I would.|na
+A|Have you rented any movies lately?|qy	B|Uh, the last movie I rented was THE HARD WAY with Michael J. Fox|na
+B|Have you ever been to Mercado Juarez?|qy	A|No,|nn
+B|You, you ever been to Vincent's?|qy	A|No,|nn
+B|You ever been, tried a place called Louisiana Purchase?|qy	A|No.|nn
+A|Do you, uh, do any woodworking?|qy	B|I do,|na
+B|But, I mean, do you see yourself having thirteen kids or twelve kids?|qy	A|No,|nn
+A|so you watch DAVID LETTERMAN?|qy	B|Yeah.|ny
+B|Are you serious?|qy	A|Yeah,|ny
+A|do you watch SATURDAY NIGHT LIVE yesterday?|qy	B|No,|nn
+A|do you watch STAR TREK?|qy	B|Uh, I haven't seen it in years,|ng
+A|Have you been keeping up?|qy	B|Well, uh, just really the last couple of days since this, uh, the, U N debate or whatever you want to call it that, uh, voted on whether there was going to be a cease fire.|na
+A|Do you like reading as a hobby?|qy	B|Uh, I love to read, but I, you know, I don't have a lot of time to read an, You know, what reading I do, I kind of do because it's, you know, it's the necessary stuff|na
+A|do you do garden work?|qy	B|As little as possible.|na
+A|Well, do you, you know, do you do gardening at home?|qy	B|Yeah,|ny
+A|you know what day lilies are?|qy	B|Pardon me?|br
+B|do your cucumbers come good?|qy	A|Oh yeah.|ny
+A|Oh, are you really?|qy	B|So, yeah.|ny
+A|Are you strict vegetarians?|qy	B|We're not vegan vegetarians.|ng
+A|Do you have any?|qy	B|I'm trying to think offhand|no
+B|you mean like for working and stuff?|qy	A|Yeah,|ny
+B|do you have any children?|qy	A|No,|nn
+A|Do you fly fish, or are those streams too small?|qy	B|Uh, no,|na
+A|do, do you have a home, or apartment?|qy	B|Uh-huh,|ny
+A|do you have to do a lot of upkeep?|qy	B|Not really,|ng
+A|Well, you like Fords, apparently, huh?|qy	B|Yeah,|ny
+B|Are you from Dallas area?|qy	A|Yeah,|ny
+A|Do you have a lawn?|qy	B|Yeah,|b
+B|Have you ever, uh, organized a family reunion?|qy	A|Uh, no|nn
+B|Are you all located in Texas?|qy	A|Uh, yeah.|ny
+B|But uh, do you have horses or anything at your dad's farm?|qy	A|I am, I am sorry?|br
+B|Do you know?|qy	A|that, that is only about three and a half feet long.|sd
+B|and, uh, do you work for T I?|qy	A|Uh-huh.|ny
+A|Have you seen GHOSTS yet?|qy	B|Yes,|ny
+B|Oh, do you?|qy	A|Uh-huh.|ny
+A|and, uh, do you subscribe to any magazines?|qy	B|Yeah,|b
+A|would you, uh, like to begin or would you like me to start?|qy	B|Uh, oh, I can start.|sd
+B|Do you want to start?|qy	A|Uh, well, we're supposed to talk about vacations|na
+B|Oh, did you get to go to Hawaii?|qy	A|Yes.|ny
+A|You haven't been to Spain?|qy	B|No|nn
+B|Have you ever got to go back?|qy	A|No,|nn
+A|Now, have you been to Yellowstone?|qy	B|Uh,|%
+A|Well, do you like to camp, those kind of trips?|qy	B|We,|%
+A|are we doing lethal injection now?|qy	B|Yes,|ny
+B|Do you work at T I?|qy	A|Uh-huh.|b
+A|you've a few?|qy	B|Yeah,|b
+A|Do you, do you buy your pills one at a time?|qy	B|Yeah,|ny
+B|Do you vote?|qy	A|Do I vote?|br
+B|do you vote?|qy	A|Oh yeah,|ny
+A|You mean yourself, or women in general?|qy	B|Well, women in general, and, and also myself.|sd
+A|Well, do you watch much T V?|qy	B|Well, I watch in the evening with my kids|na
+B|You mean in cable?|qy	A|Uh-huh.|ny
+B|do you have children?|qy	A|Uh, yeah,|ny
+A|so are you prepared to talk?|qy	B|Okay.|b
+A|And you have state income tax also?|qy	B|Yes.|ny
+A|Do you work outside?|qy	B|Well, I, I work, uh,|arp_nd
+B|For making, you mean, government issue underwear?|qy	A|For making government issue underwear.|na
+A|Did you use a, did you use a Zar stain?|qy	B|Uh, I don't remember.|no
+A|Are you an engineer for T I?|qy	B|Yeah.|b
+A|Better than Europe?|qy	B|Well, no that is exciting.|ng
+A|Oh, and do you buy one every two years?|qy	B|Well, I travel a lot,|arp_nd
+B|Well, do you have an  older car?|qy	A|No,|nn
+A|did you go?|qy	B|No,|nn
+B|Do you all have can banks?|qy	A|Um, not that I know of|no
+B|Do you have one?|qy	A|Yeah|ny
+A|Are you Republican or Democrat?|qy	B|Uh, kind of neither.|sd
+A|like do you do technician work or something?|qy	B|Oh, no,|nn
+A|Have you,  too?|qy	B|Uh-huh.|ny
+B|have you  seen, have you had any of those?|qy	A|No,|nn
+A|You know, what I mean?|qy	B|Wow.|ba
+A|So, you think we're ready?|qy	B|I think I'm ready|na
+B|Are, are you married?|qy	A|Yes,|ny
+B|Do you have children?|qy	A|I, we have five children,|na
+B|Have you been married for long?|qy	A|No.|nn
+A|Do you work?|qy	B|No,|nn
+A|Well, you ready for New Year's Eve?|qy	B|I am.|na
+B|Uh, rides or runs?|qy	A|Rides rough?|qy^d
+A|Are, are you a T I-er?|qy	B|No,|nn
+B|But, are you at T I?|qy	A|Oh yeah.|ny
+A|Do you have children?|qy	B|No|nn
+B|Do you know what I'm saying?|qy	A|Yeah,|ny
+B|Did you go  to Baylor by any chance?|qy	A|No,|nn
+A|Do you  have children?|qy	B|Right.|b
+B|Are you a Vietnam veteran, Dudley?|qy	A|Uh, no.|nn
+B|and you were too young, right?|qy	A|I am too young, yeah.|na
+B|You are talking about P O W or missing in actions?|qy	A|Uh,|%
+A|Do you have a personal computer?|qy	B|No|nn
+A|Oh, you are kidding?|qy	B|No,|nn
+B|Do you like Kenny G?|qy	A|Uh, yeah,|ny
+B|Do you have any?|qy	A|and,|%
+A|Do you have any kids?|qy	B|No,|nn
+B|Was I supposed to do something?|qy	A|No.|nn
+B|I say back east you all drive at fifty-five don't you?|qy	A|Yeah.|ny
+B|So are you working your way through college?|qy	A|Um, well, I go home in the summer|sd
+A|Well, I, I was going to ask, too, does your wife work?|qy	B|Um, she didn't up until the last, oh, six months.|na
+B|Are you in Texas?|qy	A|No,|nn
+B|Do you have kids?|qy	A|Do I have kids?|br
+A|But, uh, have you ever been to California?|qy	B|Oh, yeah,|ny
+B|Are you a native Pennsylvanian?|qy	A|Yes,|ny
+A|Nancy, do you have any children?|qy	B|Yes,|ny
+A|You know, what I'm saying?|qy	B|I don't know,|sd
+B|Oh, are you really?|qy	A|Yeah.|ny
+B|Oh, oh, you are?|qy	A|Uh-huh|ny
+A|And who, how about you?|qy	B|No,|nn
+A|do you have a rural house or what do you have?|qy	B|Uh, we have a big old farmhouse that we've you know, remodeled.|sd
+B|do you know Grapevine?|qy	A|Uh, yes,|ny
+A|Do you have any children?|qy	B|Uh, yes,|ny
+B|So you like to fish, huh?|qy	A|Yeah,|ny
+B|A big one?|qy	A|Yeah.|ny
+B|Have you ever tried, uh, deep sea fishing?|qy	A|Uh, not yet.|ng
+B|Are you a young person?|qy	A|Well, I'm thirty-one.|no
+A|Well, both times?|qy	B|Uh-huh,|ny
+A|So, Well, are you enjoying staying home?|qy	B|Well, that's a,|%
+B|do you go see a lot of musicals?|qy	A|Just, just ever so often you know, a real, a real good one like that one|sd
+A|Do are you on a regular exercise program right now?|qy	B|Yes,|ny
+B|Have you ever had any injuries from jogging?|qy	A|No,|nn
+A|Do you belong to a gun club or you?|qy	B|He belonged to one awhile back.|sd
+A|Do you have any pets?|qy	B|No.|nn
+A|uh, what do you ride, uh, like, a bunch of hills or pretty flat?|qy	B|It, it, it varies.|sd
+A|do you ride inside if you can't ride outside?|qy	B|No,|nn
+A|have you painted something lately?|qy	B|Yes,|ny
+B|Did you read Tom Clancy's A CLEAR AND PRESENT DANGER?|qy	A|Uh, no.|nn
+A|um, did you do through a public school system or private?|qy	B|Yeah,|ny
+A|did you notice a big difference?|qy	B|Oh, yeah,|ny
+B|You got kids?|qy	A|Uh, no|nn
+B|any particular kind or just all kinds?|qy	A|Well, for instance breast cancer seems to be pretty rampant|sv
+B|Do you have a separate fuse for your high beam as opposed to your low beam?|qy	A|I I don't know,|no
+A|am I talking to Utah right now?|qy	B|Uh-huh.|ny
+B|Have you had any snow up your way?|qy	A|No,|nn
+B|Do you miss your papers sometimes?|qy	A|See,|%
+A|Do you sing at choir at your church?|qy	B|Yes,|ny
+A|Uh, have you ever had a Retriever before?|qy	B|No,|nn
+B|Is, is your dog an inside and outdoors?|qy	A|No,|nn
+A|You interested in woodworking?|qy	B|Yeah.|ny
