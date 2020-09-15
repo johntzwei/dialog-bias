@@ -1,0 +1,201 @@
+index,text,label
+0,[CLS] Dont you love when you actually *benefit* from that? [SEP] What's wrong with it? [SEP],n
+1,[CLS] Did you read your own article? [SEP] And your comment on that one. Did you? [SEP],n
+2,[CLS] Are you seeing why its such a big difference at your life stage yet? [SEP] The day I turn 30 is the day I stop living. [SEP],n
+3,[CLS] Isnt the R36 coming out this/next year? [SEP] I would assume next year is 2019 but yes [SEP],f
+4,"[CLS] Do I love thinking about it? [SEP] I don't like it, but there are better ways to do it. [SEP]",n
+5,[CLS] Are you confident and make your intentions known? [SEP] I think I am confident and just make my intention known. [SEP],f
+6,[CLS] Do you know how big a county is....? [SEP] What were the other counties like? [SEP],n
+7,[CLS] Are you sure the girlfriend is being honest? [SEP] yes. yes you are absolutely right it was a lie. [SEP],f
+8,"[CLS] Isnt the voice of the Iron Giant done by Vin Diesel? [SEP] Yep, and if I'm not mistaken, also in Terminator 2. [SEP]",f
+9,[CLS] Does the CPU comes with a default cpu fan? [SEP] I have a fan. I'll include one when I get more in. [SEP],n
+10,"[CLS] Does John know any of this? [SEP] no, only the kerning [SEP]",f
+11,[CLS] Are you really insinuating that fossil fuels dont get subsidies? [SEP] ... are you really insinuating that fossil fuels are a bad thing? [SEP],n
+12,"[CLS] Is your SIL still at your place? [SEP] OP, you should see the thread thread title. A friend is taking home his mother on Monday, and is in tears. Please don't give away that information. [SEP]",n
+13,"[CLS] Are you sure hes not... sleeping? [SEP] Nah he just needs to warm his hands up first, duh. [SEP]",f
+14,[CLS] Did you actually strap the mask to your face and breath solely through that? [SEP] Only in the last few minutes [SEP],f
+15,[CLS] Are you saying you want an open relationship? [SEP] You're funny man. [SEP],n
+16,[CLS] Does anyone know what company will be hosting it? [SEP] I don't know of one!! Where are you looking for it?? [SEP],n
+17,[CLS] Do their awesomeness change with your age? [SEP] No. But they got to be around twice my age. [SEP],f
+18,"[CLS] Are you Japanese by any chance? [SEP] Nope, born and raised US! But I have been in Japan my whole life :D [SEP]",f
+19,"[CLS] Didnt Gotze have a bit of a bromance with Sahin as well as Reus? [SEP] No, because Reus didn't sign up to be in that club. That was a pre contract offer by Bayern IIRC because of his dad being there. [SEP]",f
+20,"[CLS] Do you still notice problems stemming from the abuse? [SEP] Not really, no. [SEP]",f
+21,[CLS] Do you want to watch a Disney movie with me? [SEP] Yes please [SEP],f
+22,[CLS] Are you in the preview app? [SEP] yup. I'm on the right side of that icon [SEP],f
+23,[CLS] Do the Knicks have any draft picks? [SEP] Not this season. [SEP],p
+24,[CLS] Did you actually read the NHS source? [SEP] They are both good at making poor excuses for poor care. [SEP],n
+25,"[CLS] does that automatically mean that your penis doesnt feel good [in me]? [SEP] Well, it was the other way round. XD [SEP]",p
+26,[CLS] Did... did you click the link? [SEP] I did... : c [SEP],f
+27,[CLS] Are you talking about the flair on the post? [SEP] No the text inside the post. [SEP],f
+28,"[CLS] Are you embarrassed you said that out loud? [SEP] No, that's perfectly acceptable. :P [SEP]",f
+29,[CLS] Do you think thats the reason? [SEP] Praying for you. [SEP],n
+30,[CLS] Does a 30 year old female liberal from Pennsylvania count? [SEP] My vote is in for this question! [SEP],n
+31,[CLS] DID YOU EVER CONSIDER YOU SHOULD SHUT YOUR MOUTH AND JUST AGREE WITH ME? [SEP] Oh. I thought it looked wrong. [SEP],n
+32,"[CLS] Are you trying to find Cardassia? [SEP] If he is, it's on the right sub [SEP]",n
+33,"[CLS] Did you just link your own video? [SEP] Hahaha! That's the second video, I've been in a game with him so I watched his first. I like to do his videos because it's entertaining. [SEP]",n
+34,[CLS] Do you not see what thread youre in? [SEP] I posted this before I logged out. [SEP],n
+35,[CLS] Did you lie about your ages? [SEP] nope! :D [SEP],f
+36,"[CLS] Do you live in fucking Manhattan? [SEP] Close, East Village. [SEP]",f
+37,[CLS] Are image threads and gif threads to be self posts? [SEP] No. The bot automatically removes them and posts them to imgur. [SEP],f
+38,"[CLS] Done with ogres and hydras huh? [SEP] Yeah, it was done. [SEP]",f
+39,[CLS] Do you mean that all animals are capable of overpopulating and becoming hazardous to nature? [SEP] Yes for the vast majority. [SEP],f
+40,[CLS] Do you want to come over to my house? [SEP] My username. I live in Portland now. [SEP],n
+41,[CLS] Do you know why the filming took so long? [SEP] I have no idea [SEP],n
+42,[CLS] Are these people really your friends? [SEP] You know they are. I've talked to them a lot but I do not see this guy on my Facebook. [SEP],f
+43,[CLS] Do you do the two loops? [SEP] The most common method is just the one loop for your character. [SEP],p
+44,"[CLS] Are you sure that wasnt Croydon, UK? [SEP] The man with no names was most certainly not from Croydon, though. [SEP]",n
+45,"[CLS] Is everyone just playing to get to jury? [SEP] yeah, they have to. [SEP]",f
+46,"[CLS] Do you even know what that means? [SEP] I'm not a racist or anything, but I am anti semite. [SEP]",n
+47,[CLS] Did ya pahk ya kha in Havahd yahd? [SEP] The only good cop was a dead cop. [SEP],n
+48,[CLS] Did you even read my comment? [SEP] Hahahahahaha. Sorry I didn't understand. [SEP],n
+49,[CLS] Do you read any posts over at r/curlyhair? [SEP] No. I'll go read that! [SEP],f
+50,[CLS] Is everyone just going to be white? [SEP] They are. [SEP],f
+51,[CLS] Do you come to events like these often? [SEP] I do. I am one of those weird ones that likes to come to events. [SEP],f
+52,[CLS] Do these people just not know how to keep things inside their head? [SEP] You're assuming they're intelligent. [SEP],n
+53,[CLS] did you not read the title of the post? [SEP] hahaha xD [SEP],n
+54,[CLS] Do thry sell dog as well? [SEP] No. Only sold the dog. [SEP],f
+55,"[CLS] Do you mean you want people to admit that theyve sharted?? [SEP] Yeah, pretty much, haha. [SEP]",f
+56,[CLS] Does badass status count if you didnt know you were doing it? [SEP] You're doing it [SEP],n
+57,"[CLS] Dont suppose your OT is a DK? [SEP] yep, I meant that [SEP]",f
+58,[CLS] Did you go back and read your question? [SEP] I read it. What a stupid comment. [SEP],f
+59,"[CLS] Are you a guy as well? [SEP] I am, no. [SEP]",f
+60,[CLS] Arent these the same folks who banned guns? [SEP] It's a meme. The guy got suspended for a large amount of time for just having one as a joke [SEP],n
+61,"[CLS] Are you claiming the executive branch can overrule SCOTUS? [SEP] I would, if anything. But I don't think I've ever needed to since the supreme court has decided the death penalty is not constitutional. [SEP]",p
+62,"[CLS] Do you use a debit card a lot? [SEP] Yeah, I do have to pay with debit. I usually spend 0.30 on my card, and I've never paid my monthly balance with credit. [SEP]",f
+63,[CLS] Was hatte die Schießerei in München denn mit radikalem Islam zu tun? [SEP] Nicht. Wenn f r alle wenn siske wie ich will ich. [SEP],n
+64,[CLS] Does being downvoted to hell matter? [SEP] No it is not. That's a shame. [SEP],f
+65,"[CLS] Do you really want to put yourself through that? [SEP] Hey I don't really know what to say, I think I went overboard with the profanity. [SEP]",n
+66,"[CLS] Do we shoot police officers trying to do their job? [SEP] No, there are a lot of other groups to fight as well. We prefer to use the police rather than the armed opposition. [SEP]",f
+67,[CLS] Do you know any non-Anglosaxon pilots? [SEP] I'm an angolinscript pilot : 3 [SEP],n
+68,"[CLS] should you meet in the middle? [SEP] Nah, I have too many cool friends who have made friends with random people online, and just want to do the right things. [SEP]",f
+69,[CLS] Does DE have no control at all? [SEP] No idea. It may depend on the mods you choose after you install the server. [SEP],p
+70,[CLS] Do you have access to the campus health center? [SEP] The health center's a little out of bounds! [SEP],p
+71,[CLS] Do you mean you want people to admit that theyve sharted?? [SEP] My bad. Typo at work. [SEP],f
+72,"[CLS] Do you really think its legal gun owners who are causing gun violence in America? [SEP] If you think it's safe enough for me to carry it in my county, there is a reasonable chance it's legal in my county. [SEP]",n
+73,[CLS] Do you want to spend th e rest of your life with someone youre not sexually compatible with? [SEP] Probably not! [SEP],p
+74,[CLS] is opskins a fucking tournament hoster? [SEP] it isn't he is a p2p pvmmer [SEP],f
+75,[CLS] Did you just assume its identity? [SEP] Doot doot doot! [SEP],n
+76,[CLS] Are you saying none of these things should exist? [SEP] Yes. None of these things should exist is pretty clear here. [SEP],f
+77,[CLS] Did I say we speak two different languages? [SEP] !!! He has gone back to English!!! [SEP],n
+78,"[CLS] Didnt the Packers fake spike you a couple of seasons ago? [SEP] Yah, we still do it. That s kind of our thing though. [SEP]",f
+79,[CLS] Is the OP sure Stacey is even Jasons girlfriend? [SEP] There's a lot of evidence that supports that suspicion. [SEP],p
+80,"[CLS] Is breadwallet better because you can actually buy and sell bitcoin? [SEP] Better for storing your keys on the ledger itself. No need to have a wallet just stored in your wallet, just use your own key. [SEP]",p
+81,"[CLS] Does the kid have zero agency over his own body? [SEP] He was supposed to be his own dad, but his daddy and bro were both like 20yo and couldn't get a divorce. [SEP]",n
+82,[CLS] Is the average person really that incapable of nuance? [SEP] I thought the original question was about whether you had a good taste or a bad taste in movies and movies are subjective. [SEP],n
+83,"[CLS] Does no one recognise that people have different libidos? [SEP] I know some who claim to, yeah. [SEP]",p
+84,[CLS] Did you have Indian food every day when growing up and thats why you dislike it? [SEP] I never said I was Indian but I have eaten lots of Indian food before. I dislike eating Indian food. [SEP],p
+85,"[CLS] Did you ever consider that maybe the mods hadnt yet seen a rule breaking post? [SEP] Yeah they have a lot more sense of humor than I do, and i'm sure their mod team can figure out some way to give some more humour here. [SEP]",f
+86,[CLS] Does anyone actually have proof that pulling your skin on occasion ages it? [SEP] it looks a bit like it does in the picture of the article so i guess it is a myth [SEP],n
+87,[CLS] didnt i just tell you im not a man? [SEP] I just realised they're not even that. [SEP],n
+88,"[CLS] Do you live in fucking Manhattan? [SEP] Haha, nope, not there [SEP]",f
+89,"[CLS] Do you approach girls at the gym? [SEP] Yeah, I'm a guy, so no. [SEP]",f
+90,[CLS] Do you guys really have that bad of luck with the ladies? [SEP] We have an awesome man. [SEP],n
+91,[CLS] Are you even afraid of eating gummy vitamins? [SEP] Do you even have to answer? [SEP],n
+92,[CLS] Are you legitimately concerned because the joke stereotypes white people as serial killers? [SEP] He's pointing out how little white and Hispanic culture has to do with criminality. [SEP],p
+93,[CLS] Isnt Tom Cruise like 3 feet tall? [SEP] 5'5 i think [SEP],p
+94,[CLS] Do you know why Mexico lost in the Copa America? [SEP] They play better against the good teams? [SEP],n
+95,"[CLS] Did you just want the link? [SEP] What, please add it? [SEP]",n
+96,"[CLS] Is your company large enough to have an HR department? [SEP] Yes, we do have a HR department for all of our employee. [SEP]",f
+97,"[CLS] Are you sure youre not a dog? [SEP] Yes, I am sure. [SEP]",f
+98,"[CLS] Do you know who was the white guy passing the ball? [SEP] That's the other white guy. Klay's got a pretty chill approach on the game, that's a great shooter. [SEP]",n
+99,"[CLS] Did the jungle changes hurt Chogath badly? [SEP] It was pretty hard to make him easier to snowball on, you have a pretty big AD deficit early. [SEP]",p
+100,"[CLS] Dont you mean half as much? [SEP] Yeah, a half as much [SEP]",f
+101,"[CLS] Do you guys see an empty map when using the APK? [SEP] It was a joke. If it wasn't, then someone wouldn't do it and the rest of us wouldn't be getting the fun of this game. [SEP]",n
+102,"[CLS] Do you tell sexual assault victims their clothing sent the message their body was free to anyone who wanted it, too? [SEP] I didn't actually do that. But that is a good question I haven't thought of yet. [SEP]",f
+103,"[CLS] Do you still have a link to it? [SEP] I'm sorry, I don't have it. It's been too long. [SEP]",f
+104,[CLS] Isnt Scotland part of Great Britain? [SEP] In Britain. [SEP],f
+105,[CLS] Do we really want kiddos and idiots running off into the woods and getting g lost? [SEP] Or maybe those kids in that ditch aren't your real kids and aren't running in circles from a campfire! [SEP],n
+106,"[CLS] doesnt calling someone salt of the earth mean that theyre stopping something from growing? [SEP] No, it's a reaction to salt. [SEP]",f
+107,[CLS] Do you live in an at-will state? [SEP] No. I do not. [SEP],n
+108,"[CLS] Do we have confirmation that all the scenes take place simultaneously though? [SEP] Yes, I just tested it by accident. [SEP]",f
+109,[CLS] Do you wanna join the pen 15 club? [SEP] hmmm... do I have to put down the pen 15 account first or can I do that in place of pen 15? [SEP],n
+110,[CLS] Does the shirt say something about babies? [SEP] I'm not that creative [SEP],p
+111,"[CLS] Do you have any fitness goals to train towards? [SEP] Not really, I'm more into the aesthetics aspect of lifting so I could do more bodybuilding focused stuff but I could improve to be more in the physique aspect. [SEP]",p
+112,"[CLS] Isnt OPs case a bit different, though? [SEP] Yes, but in the end I was only interested in this specific case, so it just made it easier to figure out an example. [SEP]",f
+113,[CLS] Do you think that septum shaming in that scenario is going to do a lick of good to motivate you to make a huge lifestyle change to fix it? [SEP] No not really... [SEP],f
+114,"[CLS] Wasnt Gay: The Musical the best? [SEP] it was, so was The Big Lebowski, Zombieland, Air Bud, and some others in my top 10. All films which I found very stupid. [SEP]",f
+115,"[CLS] Are you coming on too fast? [SEP] I dont think they're going for that one, they're gonna give me 5 minutes for each song [SEP]",n
+116,[CLS] Should I be responding to your flair? [SEP] No reason to down votes. Let's just ignore him. [SEP],n
+117,"[CLS] Did I have some standards about career and finances when I was single? [SEP] Just wait until your first child's mom sees this and goes, Yeah, let's not do this and have a family reunion. [SEP]",n
+118,[CLS] Did you get to see the translucent palmetto geckos? [SEP] I love you. lt 3 lt 3 [SEP],n
+119,[CLS] Does no one consider the intent? [SEP] I'd prefer not to. [SEP],p
+120,"[CLS] Do you deny that our global and national politics, our military, our media, our 1% class (all foci of power) are hugely dominated by men? [SEP] Do you deny the fact that all of these things are dominated by women? [SEP]",n
+121,"[CLS] Does that really qualify as fast food? [SEP] Well it is, we serve it at work lol [SEP]",f
+122,[CLS] Do you have all your cross classes yet? [SEP] nope i have got mine as well but they are soooo hard i dont even want to take them. [SEP],f
+123,[CLS] Did you not read that link I provided? [SEP] Not sure how to respond to that. You tell me. [SEP],n
+124,[CLS] Didnt Matt Flynn *actually* average 5 TDs a start with those receivers? [SEP] Flynn is doing better than Hundley lol [SEP],p
+125,[CLS] Does anyone else think shits coming to a head? [SEP] Why? He was one of our top two tackles this season. I don't think anyone but Hahahaha has been all that bad. [SEP],n
+126,[CLS] Do you want to reconsider what you said? [SEP] If you don't want to help then why are you even here? [SEP],n
+127,[CLS] Are these people really your friends? [SEP] Probably. They should get their own subreddit [SEP],p
+128,[CLS] Do you even know what that means? [SEP] What do you mean? [SEP],n
+129,"[CLS] Did every kid measure time by multiples of episode length? [SEP] I guess that's the best they could do, there was no reason to do it. That way they could put it all together in 24 minutes. [SEP]",n
+130,[CLS] Do you have a rewards card? [SEP] I do!! [SEP],f
+131,"[CLS] Is Mad Max:Fury Road a chick flick? [SEP] It is, but most of the female leads were not in Mad Max. [SEP]",f
+132,"[CLS] Are you Venezuelan, by any chance? [SEP] No. I'm not a Venezuelan. [SEP]",f
+133,"[CLS] Wasnt that trans-camp thing only ever verified from one misleading source? [SEP] I saw. It was a joke but yeah, it's been debunked a while back. [SEP]",n
+134,[CLS] Is a superfight only when two champions fight? [SEP] Pretty much every time [SEP],n
+135,"[CLS] Are you familiar with the Sage of the Seven Suns by Kevin J. Anderson? [SEP] Not familiar with the series at all, but I have seen the original and know the artwork, so I'll check it out. Thanks for your offer [SEP]",n
+136,"[CLS] do you not see the heavy sweep of blush, mascara and lip stain/liner? [SEP] Yes, sorry! I missed it initially! [SEP]",f
+137,[CLS] Are you asking what the gif is of? [SEP] I can't even see where on the gif it ends... [SEP],n
+138,"[CLS] Do servers really generate 1/5th the value of the meal? [SEP] That isn't server side unless, like the other said, an automated server is used. That was my understanding on the matter. [SEP]",n
+139,[CLS] Did you just hope I was going to be bronze-silver? [SEP] Of course I do.. [SEP],f
+140,"[CLS] isnt an actual 3-way just a little bit better, I mean, if you have Alexandra Daddario and Alison Brie in it? [SEP] i dont think so. i dont think theyve had enough scenes together with those big red men. maybe they couldve worked their way together, but im not sure about that. [SEP]",p
+141,[CLS] Do rape dates usually run quite well? [SEP] I don't know but it works for one person. [SEP],p
+142,[CLS] Are the young men going to hit the women? [SEP] They're gonna get the same treatment as every other group. They'll just ignore it. [SEP],n
+143,[CLS] Do rape dates usually run quite well? [SEP] In general no [SEP],p
+144,[CLS] Do you want to watch a Disney movie with me? [SEP] You'll be joining me for 2 weeks of my Disney binge [SEP],p
+145,"[CLS] Do you have the actual strip tease? [SEP] I'd rather not tell you, sorry! I'm working on it. I have a few ideas of what it could be and I'm sure I have the strip. [SEP]",n
+146,[CLS] Didnt that rule get revoked mid-season? [SEP] Probably because the teams werent even playing to get better records. [SEP],p
+147,"[CLS] Does that mean I love everyone? [SEP] No, it means you love to troll. [SEP]",f
+148,"[CLS] Are you supposed to be able to predict those? [SEP] I think it is just a set prediction, not a prediction of the next thing to come from the set. [SEP]",p
+149,[CLS] Do you use a debit card a lot? [SEP] I use it to get into the gym but in addition to gym membership I also rent one of several cars and get a bike at a gym [SEP],p
+150,"[CLS] Is police presence really that strong in American cities? [SEP] I'm pretty sure they're a bit better at enforcing the law during protests than security forces or whatever it is, but their presence is definitely there. [SEP]",p
+151,"[CLS] Do you know why Mexico lost in the Copa America? [SEP] Afaik, the goal was offside [SEP]",p
+152,[CLS] Is Nurbs a strange way of saying Nubs? [SEP] That would also be a bad spelling of The. [SEP],n
+153,[CLS] Is carcinogenicity not an ill effect? [SEP] Not in that range [SEP],n
+154,"[CLS] did you not read the title of the post? [SEP] You have a terrible sense of humor, this is not funny. [SEP]",n
+155,[CLS] Are you the same guy came dressed as a cooley? [SEP] Not that same guy! I had his address on my carkey but then didn't know about him. Also didn't notice him in the carkey until I showed up. [SEP],f
+156,[CLS] should I play demons souls first? [SEP] I wouldn't because it's not going to be a very long game [SEP],p
+157,[CLS] Did you just buy a random CD? [SEP] Yes i got a random cd in my pocket i was surprised [SEP],f
+158,"[CLS] Do you have any plans to move out in the near future? [SEP] A little, we just got a lease on my place, I think. I do have friends who are planning to go to London. [SEP]",p
+159,"[CLS] Do you guys see an empty map when using the APK? [SEP] yup, it was dead for me for some reason. [SEP]",f
+160,"[CLS] Are you not supposed to do that? [SEP] It's a way to add weight to the barbell. If you do the full exercise, you will eventually move the weight to the other end. It's called a full body swap. [SEP]",n
+161,"[CLS] Do you know how old you just made me feel? [SEP] A few weeks, at most. But since I posted on Sunday, I feel like it's been over 2 weeks since the first post, so maybe it's over a week old? [SEP]",n
+162,[CLS] Is Suplex City located in Patrick Country? [SEP] A place for them to get slapped by a city's mayor. [SEP],n
+163,[CLS] Did his name include Kiev in it? [SEP] It did. I just found out what he wrote :P [SEP],f
+164,[CLS] Do I need to bring anything with me? [SEP] You're not required to eat anything. [SEP],n
+165,[CLS] Is Rem the omanyte and Emilia the bottle...? [SEP] Looks like it should be! Rem is the bottle. She's trying to keep it from the enemies. [SEP],p
+166,"[CLS] Isnt that new Clinton Cash movie in the same vein? [SEP] Its not, its based on a graphic novel. [SEP]",f
+167,[CLS] Does anyone/a dog/a cow ever get hit? [SEP] Yes. You'd feel it. [SEP],f
+168,[CLS] Is Donald Jr going to jail? [SEP] i can't tell you [SEP],n
+169,"[CLS] Do you have one with goggles, and a furry tail? [SEP] No, but I'll have to ask the owner. [SEP]",f
+170,[CLS] Is anyone else getting frequent crashes? [SEP] Yup. Running pretty well. [SEP],f
+171,"[CLS] Isnt that the claim every year though? [SEP] It was a special teams coach with a special teams team, but no, we've just never had a defensive coach so well known as that. [SEP]",f
+172,[CLS] Did you just age out of it? [SEP] Did you just put a period on it? [SEP],n
+173,[CLS] Should all miscarriages be investigated as potential homicides? [SEP] Only because of the massive amount of miscarriages in that area. This is just murder... I think. [SEP],p
+174,[CLS] Islam is what causes people to throw acid at people? [SEP] Yeah when you are muslim you are allowed to eat anything. [SEP],f
+175,"[CLS] Did you see their newest prototype? [SEP] No, just thought I might have seen some pics. [SEP]",f
+176,[CLS] Are you OK with these different scenarios? [SEP] Yea I should've been more clear on what I meant. [SEP],f
+177,[CLS] Dont most PD blowers use an air/liquid intercooler? [SEP] No. That is a waste. The only reason these engines exist was so it could be converted for higher compression when the turbine got bored below. [SEP],f
+178,[CLS] Is a superfight only when two champions fight? [SEP] I guess one champion per team. [SEP],p
+179,[CLS] Do you tend to have white knight tendencies? [SEP] What does that mean? [SEP],n
+180,"[CLS] Do you think of the Soviet Union as being leftist? [SEP] No, there was no state capitalism. It was more a dictatorship. [SEP]",f
+181,[CLS] do you *have* to have so many stones? [SEP] I do? [SEP],p
+182,[CLS] Do you see how ridiculous that seems? [SEP] She said something like If only we had this exact system on the books. I could never be so sure of her words. [SEP],n
+183,"[CLS] Are dead bodies usually identified by whats in their pants? [SEP] No, but they smell weird [SEP]",f
+184,[CLS] Do you know what I mean? [SEP] He's probably a good guy [SEP],n
+185,[CLS] Are you seroously confused as to why healthcare didnt pass in the 90s? [SEP] I'm confused. The country has had healthcare for about 20 years. [SEP],f
+186,[CLS] Are you trying to depress me? [SEP] He actually made it up [SEP],n
+187,[CLS] Are you sure your cat isnt moonlighting as a dermatologist? [SEP] I like the way you think! LOL [SEP],n
+188,"[CLS] Are biological gays making a decision that you think is a bad one? [SEP] I never mentioned I'm bi, just curious if their sexuality is similar to that of a cisgender. [SEP]",n
+189,[CLS] Do you have a lot of tattoos and a missing pinky? [SEP] i have 2 tattoos and 1 pinky but no i dont have a lot of extra toes like those photos show [SEP],f
+190,"[CLS] Do you mean pain, temperature, proprioception...? [SEP] Oooooh! That one! [SEP]",p
+191,[CLS] Are you seriously arguing the National Library of Medicine with a click-bait livescience.com article? [SEP] Don't listen to him. He's just trying to start a civil war. [SEP],n
+192,[CLS] Are you suggesting that I accurately predicted youre sleep cycle? [SEP] This is why I love you so much :D [SEP],n
+193,"[CLS] Did you mean Micah True, AKA Caballo Blanco, who most likely died of issues caused by cardiomyopathy? [SEP] Nah, I mean Micah and that guy named Tylenol. [SEP]",f
+194,"[CLS] Does Lit count as stupid shit? [SEP] no, but it definitely wasn't great. [SEP]",f
+195,"[CLS] Are you going out with a guy? [SEP] He's a girl, but yes, probably going out with a guy. [SEP]",p
+196,[CLS] Do you talk to your friends every day? [SEP] No actually there was a girl named Bitchface from HighschoolDodgeball that's always in my facebook lol [SEP],f
+197,[CLS] Wasnt the winning TD Randalls first completion of the game? [SEP] Yes it was [SEP],f
+198,"[CLS] Do you know what a Cervix is? [SEP] No, I don't. I was just making a humorous statement. [SEP]",f
+199,"[CLS] Are you suggesting that HIV may be spread in a non-sexual manner? [SEP] I'm suggesting that it has been confirmed as carrying virus by numerous studies. It certainly does, but there's a range around that number. [SEP]",p
