@@ -1,0 +1,735 @@
+
+WARNING: The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+If you depend on functionality not listed there, please file an issue.
+
+session created!
+/nas/home/jwei/Dialogue_System_Hackathon/Ruber/models/models_cls_sentBertembed_Maxpooling
+None
+Initializing model variables
+./
+queries
+Loading file ./queries
+Loading file ./responses
+query: What was your relationship like before the drinking?
+reply: We were friends but he had a drinking problem.
+$$$$$$$
+(1, 768)
+[[0.5117294  0.48827058]]
+*****************************
+query: Are you under the impression that breast milk or formula is not vegan?
+reply: You can't milk a vegan.
+$$$$$$$
+(1, 768)
+[[0.57138044 0.42861956]]
+*****************************
+query: Seriously, have you ever given birth?
+reply: I've been on birth control, but that's about it.
+$$$$$$$
+(1, 768)
+[[0.53345734 0.46654263]]
+*****************************
+query: Its pointing out the obvious in a formal debate  By who?
+reply: The people who upvoted him.
+$$$$$$$
+(1, 768)
+[[0.4067905 0.5932095]]
+*****************************
+query: But did everyone forget about the megatron rule?
+reply: I did. I was thinking of it but it didn't happen.
+$$$$$$$
+(1, 768)
+[[0.40708804 0.5929119 ]]
+*****************************
+query: How does the word literally help?
+reply: It literally means literally.
+$$$$$$$
+(1, 768)
+[[0.49441466 0.5055853 ]]
+*****************************
+query: Like Im just an animal and my vagina has a mind of its own and itll hop on some guys dick?
+reply: No, but you'll probably get on some guys'minds.
+$$$$$$$
+(1, 768)
+[[0.67273915 0.32726085]]
+*****************************
+query: I guess some guys might be surprised by how dirty we are?
+reply: It's like we're wearing nothing at all... nothing at all... nothing at all...
+$$$$$$$
+(1, 768)
+[[0.5891991 0.4108009]]
+*****************************
+query: What is so fucking detestable about thousands of people crying and screaming in happiness over a moment?
+reply: It's just a prank, bro.
+$$$$$$$
+(1, 768)
+[[0.7017999 0.2982001]]
+*****************************
+query: But what the hell can you reasonably do in a ten minute time span?
+reply: I can't even do that. I'm too busy playing with my phone.
+$$$$$$$
+(1, 768)
+[[0.5659003  0.43409964]]
+*****************************
+query: >Real costs of their models have literally nothing to do with their sales numbers, at all  Are you being intentionally stupid or did you not understand my point?
+reply: No, you're just ignorant.
+$$$$$$$
+(1, 768)
+[[0.5274427  0.47255728]]
+*****************************
+query: Its not about making things uncomfortable?
+reply: It's about making them uncomfortable.
+$$$$$$$
+(1, 768)
+[[0.58101285 0.41898718]]
+*****************************
+query: Blizzard might want to give a more polished product, but at what cost?
+reply: Blizzard might be able to get a better product, but at what cost?
+$$$$$$$
+(1, 768)
+[[0.40798151 0.5920185 ]]
+*****************************
+query: Hanging around outside someones house and plastering stickers on a dumpster?
+reply: That's a really good idea actually. I would love to see that.
+$$$$$$$
+(1, 768)
+[[0.6695814  0.33041865]]
+*****************************
+query: If you want something small enough for a cage, how about a hamster?
+reply: I've seen a few of those, but they're so tiny!!!
+$$$$$$$
+(1, 768)
+[[0.60259557 0.39740443]]
+*****************************
+query: > Just too much parity nowadays for starters  What parity?
+reply: It's just that, parity.
+$$$$$$$
+(1, 768)
+[[0.67872715 0.32127288]]
+*****************************
+query: But I am sure you are perfect in relationships, yea?
+reply: Oh, you know, I'm just really lucky!
+$$$$$$$
+(1, 768)
+[[0.58583874 0.41416126]]
+*****************************
+query: Im upgrading to W10 tonight, in the meantime, what is happening to my PC?
+reply: I'm not sure if you're being serious, but if you're not serious : you're using a mac.
+$$$$$$$
+(1, 768)
+[[0.664746   0.33525404]]
+*****************************
+query: you... shouldnt be honest about things like that?
+reply: I am a human being, not a robot.
+$$$$$$$
+(1, 768)
+[[0.6494614  0.35053858]]
+*****************************
+query: I know I can find something else to help with my mental issues, but when food is the only thing that guarantees a few hours of peace of mind and okay-ness, what do you do?
+reply: I'm trying to make myself feel better, I guess.
+$$$$$$$
+(1, 768)
+[[0.64133805 0.35866192]]
+*****************************
+query: Some things to think about -- who is your legal guardian?
+reply: I don't have any guardians.
+$$$$$$$
+(1, 768)
+[[0.594413   0.40558702]]
+*****************************
+query: >Which Boston offer are you talking about?
+reply: I think it was the one with the free food and drinks.
+$$$$$$$
+(1, 768)
+[[0.562688   0.43731204]]
+*****************************
+query: Im the *only* person hes attracted to?
+reply: I don't know, but I would guess it is someone that is a fan.
+$$$$$$$
+(1, 768)
+[[0.4895879  0.51041216]]
+*****************************
+query: Do you need a DVD drive?
+reply: I do not, but thanks for offer!
+$$$$$$$
+(1, 768)
+[[0.5228832  0.47711682]]
+*****************************
+query: But who would really want competition?
+reply: Who would want competition when they can just buy a car and drive the same way they do now?
+$$$$$$$
+(1, 768)
+[[0.5139152  0.48608482]]
+*****************************
+query: > Can you give me stats on how many more government agents died since legalization locally?
+reply: I don't have the source of the data, but I think the number is higher than that.
+$$$$$$$
+(1, 768)
+[[0.57244354 0.42755643]]
+*****************************
+query: We havent won over a big name free agent (besides Dwight) since, who, TMac??
+reply: Tmac? I don't think so...
+$$$$$$$
+(1, 768)
+[[0.5992275  0.40077248]]
+*****************************
+query: As for not being able to drive, can you ask your boyfriend to take you, or take the bus with you?
+reply: It's going to be a bus, so I'm not sure if she'll be able to take him...
+$$$$$$$
+(1, 768)
+[[0.73466486 0.26533517]]
+*****************************
+query: You know that UFC fighting isnt the same as real fighting in real life dont you?
+reply: I'm pretty sure they were joking.
+$$$$$$$
+(1, 768)
+[[0.5645382 0.4354618]]
+*****************************
+query: Want to talk about Dragon Soul recruitment?
+reply: Yes please!
+$$$$$$$
+(1, 768)
+[[0.39646736 0.6035327 ]]
+*****************************
+query: >by predictive downloads do you mean game recommendations on your dashboard?
+reply: Yes, exactly
+$$$$$$$
+(1, 768)
+[[0.5535109  0.44648913]]
+*****************************
+query: (: Afterward I was thinking about going to one of those...you know, associates schools?
+reply: I don't know, I'm not an associate.
+$$$$$$$
+(1, 768)
+[[0.6338417  0.36615837]]
+*****************************
+query: What country are you living in?
+reply: I'm living in South Africa
+$$$$$$$
+(1, 768)
+[[0.4528602  0.54713976]]
+*****************************
+query: Maybe Im too autistic to even show up outside?
+reply: Maybe you need a safe space.
+$$$$$$$
+(1, 768)
+[[0.6215035  0.37849647]]
+*****************************
+query: > I dont believe I told you my political affiliations?
+reply: You should probably just ignore him, he's a spammer.
+$$$$$$$
+(1, 768)
+[[0.54315144 0.45684853]]
+*****************************
+query: Want to drive more than an hour outside of town for the weekend?
+reply: I'm in the same boat.
+$$$$$$$
+(1, 768)
+[[0.54932624 0.45067376]]
+*****************************
+query: Edit: how could i forget to mention that on average 50+% of our games are blacked out in any season that isnt 2006, 7, or 8?
+reply: That's actually a very good statistic.
+$$$$$$$
+(1, 768)
+[[0.64233327 0.35766676]]
+*****************************
+query: They SEW fake hair to their SCALPS?
+reply: I wish!
+$$$$$$$
+(1, 768)
+[[0.5496333  0.45036674]]
+*****************************
+query: Now, if /u/Vicous had PMed OP that in a less jokey, more oh God I got so hot reading your piss story on askreddit, could I get some deets?
+reply: You are a good man.
+$$$$$$$
+(1, 768)
+[[0.57655686 0.4234432 ]]
+*****************************
+query: Why are only half the number of police convicted compared to civilians?
+reply: Because the police are more likely to be on the side of the criminals, and the police are more likely to be on the side of the victims.
+$$$$$$$
+(1, 768)
+[[0.49775353 0.5022465 ]]
+*****************************
+query: Perhaps Im just magically friends with the only people in the world who dont have inappropriate crushes on their friends SOs???
+reply: I'm not alone!
+$$$$$$$
+(1, 768)
+[[0.63298607 0.36701393]]
+*****************************
+query: You know what I also love?
+reply: I like to use the term'not so much'to refer to the'not so much'that is not very good ', as well.
+$$$$$$$
+(1, 768)
+[[0.46716517 0.5328349 ]]
+*****************************
+query: Ask a vet nearby if you can report anything like animal abuse for this?
+reply: I will, I hope she's okay, but I'm not sure.
+$$$$$$$
+(1, 768)
+[[0.5446453 0.4553547]]
+*****************************
+query: >  $15-20 per outfit on the market place  thats what people are crying for tho?
+reply: Yeah, I'm not complaining, I was just saying the market place would be better
+$$$$$$$
+(1, 768)
+[[0.6056993  0.39430067]]
+*****************************
+query: Are you sure youre dating a 29 year old woman and not a toddler?
+reply: Haha, I'm not dating a toddler. I'm dating a woman with a baby.
+$$$$$$$
+(1, 768)
+[[0.6638638  0.33613616]]
+*****************************
+query: The old boys club...among the electorate?
+reply: I thought that was the old boys club.
+$$$$$$$
+(1, 768)
+[[0.6059984 0.3940016]]
+*****************************
+query: Can you compare Fallout 1/2 with 3 given the time difference and genre change?
+reply: I'm on it. I'll have to go through everything again, but it should be easy.
+$$$$$$$
+(1, 768)
+[[0.6464011  0.35359886]]
+*****************************
+query: >Havent we been doing that for the last ten years?
+reply: You're right. I just realized that I posted this in a different sub.
+$$$$$$$
+(1, 768)
+[[0.5961087  0.40389132]]
+*****************************
+query: How many schools from minor conferences schedule their games against opponents like Alabama hoping to generate revenue for their programs?
+reply: Not a single one.
+$$$$$$$
+(1, 768)
+[[0.50960726 0.49039274]]
+*****************************
+query: >How exactly is Facebook or youtube a progression of technology that is beneficial?
+reply: I agree, but it's the only thing keeping me alive.
+$$$$$$$
+(1, 768)
+[[0.5648166 0.4351834]]
+*****************************
+query: Is VS really considered to be that bad?
+reply: It's not bad, but it's definitely not good.
+$$$$$$$
+(1, 768)
+[[0.5851538 0.4148462]]
+*****************************
+query: Its high paced and if you miss a shot, you haul your ass back on defense as quick as possible (really /r/nba?
+reply: You're not wrong, but I'm not gonna lie that's pretty much the only way I can describe my play style.
+$$$$$$$
+(1, 768)
+[[0.61672616 0.3832738 ]]
+*****************************
+query: I know I can find something else to help with my mental issues, but when food is the only thing that guarantees a few hours of peace of mind and okay-ness, what do you do?
+reply: I don't go to the beach. I stay in my room all day long.
+$$$$$$$
+(1, 768)
+[[0.6766031  0.32339692]]
+*****************************
+query: That is no beuno, you dig?
+reply: It's a bit too small. I'm thinking of a better one.
+$$$$$$$
+(1, 768)
+[[0.5022664  0.49773365]]
+*****************************
+query: A news article linking to a dead video which supposedly had content that Im supposed to see?
+reply: I don't see any news links
+$$$$$$$
+(1, 768)
+[[0.532117 0.467883]]
+*****************************
+query: Are you prepared to go your entire life without the financial and social security of a legal marriage?
+reply: Not at all, no.
+$$$$$$$
+(1, 768)
+[[0.6347006  0.36529943]]
+*****************************
+query: All that magic rules set aside for Jews?
+reply: You just made my day.
+$$$$$$$
+(1, 768)
+[[0.42213324 0.57786673]]
+*****************************
+query: When are you guys gonna start?
+reply: We have started for the last 3 days.
+$$$$$$$
+(1, 768)
+[[0.45585984 0.5441402 ]]
+*****************************
+query: Are you adopting or kidnapping or something else?
+reply: I don't know what you're asking.
+$$$$$$$
+(1, 768)
+[[0.53101045 0.46898955]]
+*****************************
+query: Do you have a source for that?
+reply: It's a meme on this sub.
+$$$$$$$
+(1, 768)
+[[0.535175 0.464825]]
+*****************************
+query: Do you think its just too abnormal of a situation?
+reply: I don't know, I don't know, I don't know.
+$$$$$$$
+(1, 768)
+[[0.6975262  0.30247372]]
+*****************************
+query: Wow are legit saying that unwanted sexual harassment is something that counts as if its something women should be thankful for?
+reply: I think it's more that the person is trying to make a joke and that it was a joke.
+$$$$$$$
+(1, 768)
+[[0.541261 0.458739]]
+*****************************
+query: OMG, what happened to your boobs?!?
+reply: They're just a little too big.
+$$$$$$$
+(1, 768)
+[[0.5113368  0.48866317]]
+*****************************
+query: Go through all that and NOT go into the industry?
+reply: I have a job in the industry and I'm already planning on going out and working in a few industries.
+$$$$$$$
+(1, 768)
+[[0.6995051  0.30049488]]
+*****************************
+query: But does anyone actually think hes going to be the unrivaled number one quarterback at any point like Manning in 13, Rodgers in 11, or Brady in 07?
+reply: Brady is going to be number one in the league for a while.
+$$$$$$$
+(1, 768)
+[[0.58115065 0.41884935]]
+*****************************
+query: Why do so many people have a problem with people being vegetarian?
+reply: Why do people not get this?
+$$$$$$$
+(1, 768)
+[[0.6248935  0.37510654]]
+*****************************
+query: Whats the Cavs projected salary at... 200% of the cap?
+reply: I think its gonna be around that, but not much more. I don't think they will even be able to get to the max
+$$$$$$$
+(1, 768)
+[[0.5103644  0.48963553]]
+*****************************
+query: >Ive tried talking to some women in circumcision  MENOPHOBIA: Circumcised?
+reply: I'm glad someone said it!
+$$$$$$$
+(1, 768)
+[[0.5611527  0.43884727]]
+*****************************
+query: Now I know youre thinking what about food?
+reply: I'm just a hungry guy.
+$$$$$$$
+(1, 768)
+[[0.5661785  0.43382156]]
+*****************************
+query: Wait a sec, slow down... does that really work in a film?
+reply: Yeah, it works in a movie.
+$$$$$$$
+(1, 768)
+[[0.48538023 0.51461977]]
+*****************************
+query: A damsel in distress causing contention in their relationship?
+reply: You win.
+$$$$$$$
+(1, 768)
+[[0.5919891 0.4080109]]
+*****************************
+query: <link>  1RMs:  Bench 110 kg  Incline Bench 85 kg (5 RM)  Squat 140 kg  Deadlift 180 kg  OHP 70 kg  Bulk or cut?
+reply: I'm trying to keep it as close to the original post as possible.
+$$$$$$$
+(1, 768)
+[[0.5290703 0.4709297]]
+*****************************
+query: >You say you have to meet the person   Have to?
+reply: I have to?
+$$$$$$$
+(1, 768)
+[[0.45552367 0.5444763 ]]
+*****************************
+query: >a) am I doing anything wrong that I could do differently?
+reply: I was going to say the same thing!
+$$$$$$$
+(1, 768)
+[[0.46775174 0.53224826]]
+*****************************
+query: Perhaps you meant to use definitely instead?
+reply: I'm not sure.
+$$$$$$$
+(1, 768)
+[[0.46042743 0.5395726 ]]
+*****************************
+query: What would be the female version of emasculating?
+reply: I think I might have to try that. I have been trying to figure that out for a while.
+$$$$$$$
+(1, 768)
+[[0.6338747 0.3661253]]
+*****************************
+query: I wish I could say that I found a way to be okay with their closeness, but honestly?
+reply: It's okay. We'll be OK together.
+$$$$$$$
+(1, 768)
+[[0.6631009  0.33689916]]
+*****************************
+query: Its also kind of scary, because if something happened to you and you couldnt reach a phone, what would you do?
+reply: I'd call 911
+$$$$$$$
+(1, 768)
+[[0.6245258  0.37547415]]
+*****************************
+query: Which bundle do you prefer the most?
+reply: I have the most money, but I've also bought the most bundles.
+$$$$$$$
+(1, 768)
+[[0.58446765 0.41553235]]
+*****************************
+query: What the fuck did you just fucking say about me, you little bitch?
+reply: You can't even read?
+$$$$$$$
+(1, 768)
+[[0.5109581 0.4890419]]
+*****************************
+query: Are you OK with these different scenarios?
+reply: I'm fine with it, but I don't like the idea of them being different.
+$$$$$$$
+(1, 768)
+[[0.6477488 0.3522511]]
+*****************************
+query: Youre a mom now -- can you even IMAGINE saying that to your kid?
+reply: I'm not a mom yet but I'm sure I can. I don't have to tell my kid.
+$$$$$$$
+(1, 768)
+[[0.58462644 0.41537353]]
+*****************************
+query: Is the issue of a takeover, partnership, or perhaps a new sponsorship deal?
+reply: I think we have a new sponsor for this year
+$$$$$$$
+(1, 768)
+[[0.6248707  0.37512934]]
+*****************************
+query: >she suggested that we not try again for a while which got me slightly upset  Seriously?
+reply: I think you're doing it wrong.
+$$$$$$$
+(1, 768)
+[[0.659712   0.34028795]]
+*****************************
+query: Is the issue of a takeover, partnership, or perhaps a new sponsorship deal?
+reply: New sponsor, new sponsor, new sponsor.
+$$$$$$$
+(1, 768)
+[[0.720565   0.27943498]]
+*****************************
+query: Why is bed-sharing so intimate its reserved for relationships?
+reply: I think it's a good way to keep a room together.
+$$$$$$$
+(1, 768)
+[[0.5754586  0.42454147]]
+*****************************
+query: Is upgrading to a faster SSD worth it?
+reply: Yes. It should be a good upgrade.
+$$$$$$$
+(1, 768)
+[[0.55843294 0.44156706]]
+*****************************
+query: If you were to draw up the ideal point guard for the Kings, what would you want?
+reply: I would want a center who can shoot.
+$$$$$$$
+(1, 768)
+[[0.5933586  0.40664145]]
+*****************************
+query: On a small site that has a very simple way of serving pages and with a very small overhead?
+reply: I think you missed the point of the post
+$$$$$$$
+(1, 768)
+[[0.4833942 0.5166058]]
+*****************************
+query: Dont you think youve put in enough time?
+reply: It's a joke :P
+$$$$$$$
+(1, 768)
+[[0.6876439  0.31235617]]
+*****************************
+query: Your winrate with your friends is pretty high, isnt it?
+reply: Yeah, it's pretty high.
+$$$$$$$
+(1, 768)
+[[0.52995396 0.4700461 ]]
+*****************************
+query: Find someone else to fill the room at 1 hours notice?
+reply: I don't think that's the issue, but it's a good thought.
+$$$$$$$
+(1, 768)
+[[0.65512127 0.34487867]]
+*****************************
+query: Take a moment to think: How available are glass shards in a restaurant?
+reply: I'm not even sure what that means.
+$$$$$$$
+(1, 768)
+[[0.63716424 0.36283576]]
+*****************************
+query: Ever thought about trying Project Reality?
+reply: I've heard good things, I'll look into it.
+$$$$$$$
+(1, 768)
+[[0.57172835 0.42827162]]
+*****************************
+query: So, most gamers you know paints a fuller picture than overall stats?
+reply: You can tell from the way it is.
+$$$$$$$
+(1, 768)
+[[0.5465826  0.45341748]]
+*****************************
+query: From the FAQ I posted on /r/askscience some time ago:   ####What would happen if Yellowstone erupted?
+reply: I'm going to guess it would be a massive eruption.
+$$$$$$$
+(1, 768)
+[[0.5667744  0.43322557]]
+*****************************
+query: Remind you of anything else in history?
+reply: It's a reference to the movie The Shawshank Redemption
+$$$$$$$
+(1, 768)
+[[0.42058682 0.5794132 ]]
+*****************************
+query: Be fucking honest, would you stand by if you saw a man slap a woman across the face at a bar?
+reply: I would
+$$$$$$$
+(1, 768)
+[[0.5431706  0.45682943]]
+*****************************
+query: Can people enter at multiple positions?
+reply: No. Only one per team.
+$$$$$$$
+(1, 768)
+[[0.47157174 0.52842826]]
+*****************************
+query: Which leads you to ask, why not just sell new Dynacorn Mustangs?
+reply: Because the old one is still in great shape.
+$$$$$$$
+(1, 768)
+[[0.63074136 0.3692586 ]]
+*****************************
+query: Have you two ever considered couples counseling?
+reply: Not yet but I will.
+$$$$$$$
+(1, 768)
+[[0.52734184 0.4726582 ]]
+*****************************
+query: > Okay let me rephrase: Who do you think has more power - congress, or the FAA?
+reply: The FAA.
+$$$$$$$
+(1, 768)
+[[0.4557684  0.54423165]]
+*****************************
+query: Isnt that what great music is ultimately about?
+reply: Yes, but the question is what music is not about, and how it's not about being great.
+$$$$$$$
+(1, 768)
+[[0.6402373  0.35976276]]
+*****************************
+query: Oh you have no legitimate work?
+reply: No, just a good old fashioned job at best.
+$$$$$$$
+(1, 768)
+[[0.66512656 0.3348735 ]]
+*****************************
+query: my opponent is attacking my right side, should I move my blade slightly to the right?
+reply: You should be able to.
+$$$$$$$
+(1, 768)
+[[0.50737303 0.49262697]]
+*****************************
+query: Can I ask how Dilantin is for you?
+reply: I like him, he's a little more of a physical presence, but he's still my captain.
+$$$$$$$
+(1, 768)
+[[0.5132737 0.4867263]]
+*****************************
+query: How do you illustrate a point like that?
+reply: You just draw a straight line and then draw a line of points, and then draw a straight line.
+$$$$$$$
+(1, 768)
+[[0.56070864 0.4392914 ]]
+*****************************
+query: Shell come to my desk and block me into my cube so that I cant get away, all the while simpering Isnt that just *so cute*?
+reply: Hahah, I'm glad you liked it! I was hoping someone would catch that.
+$$$$$$$
+(1, 768)
+[[0.5565732  0.44342676]]
+*****************************
+query: Yknow, how someone will use their thumb to roll in circles on top of your hand?
+reply: They're a lot easier to use than a thumb, but I've seen it done
+$$$$$$$
+(1, 768)
+[[0.6618231  0.33817685]]
+*****************************
+query: Do your health services treat depression and anxiety?
+reply: They do, but the depression is usually self inflicted.
+$$$$$$$
+(1, 768)
+[[0.6679809 0.3320191]]
+*****************************
+query: You used to be able to get... 4 different abilities, I think?
+reply: You can get more than one at once. Just click the ability on the right side of the screen.
+$$$$$$$
+(1, 768)
+[[0.63415754 0.36584243]]
+*****************************
+query: Wade would be a great addition, but for what?
+reply: I would love to see him back on our team as a 3rd down back.
+$$$$$$$
+(1, 768)
+[[0.5650775 0.4349225]]
+*****************************
+query: But are you okay with that?
+reply: I'm fine with it! I'm not a fan of the way the game looks though, it's a little too bright.
+$$$$$$$
+(1, 768)
+[[0.6472415  0.35275853]]
+*****************************
+query: Im not usually in favor of creating more drama, but do you think these people are capable of being embarrassed?
+reply: You have a point.
+$$$$$$$
+(1, 768)
+[[0.61075604 0.389244  ]]
+*****************************
+query: But then, when those shoes wear out, why would you pay for more shoes?
+reply: I would have to buy a few more pairs, and that's the only reason I would do it for this particular pair, so there's no need to buy more.
+$$$$$$$
+(1, 768)
+[[0.6808077  0.31919232]]
+*****************************
+query: Allowing respecs on the fly, making gold a standard(seriously, who thinks having gold be worthless is a good thing?
+reply: It's like gold in the first place.
+$$$$$$$
+(1, 768)
+[[0.5968914 0.4031086]]
+*****************************
+query: Was the DUI in NY from way back when a misdemeanor?
+reply: Not sure but it was a DUI in NY and a DWI in NJ.
+$$$$$$$
+(1, 768)
+[[0.49415037 0.5058496 ]]
+*****************************
+query: >So after the potato alert yesterday, I can afford the luxury of making a new frame  What do you mean by this?
+reply: The new frame has a higher rate of potato.
+$$$$$$$
+(1, 768)
+[[0.4870373  0.51296276]]
+*****************************
+query: >one referendum  Yeah, fuck democracy, right?
+reply: The referendum is just a formality.
+$$$$$$$
+(1, 768)
+[[0.63760275 0.36239722]]
+*****************************
+query: > With Buffalos attempts to make itself the state of New Yorks team, how successful do you think that is?
+reply: I don't think the Pats are doing too well, but I guess it's a good start to make them feel at home.
+$$$$$$$
+(1, 768)
+[[0.5792396  0.42076036]]
+*****************************

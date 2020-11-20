@@ -1,0 +1,11 @@
+CUDA_VISIBLE_DEVICES=3 python ../../dialoGPT/sample.py \
+    --model microsoft/DialoGPT-medium \
+    --prompts ./qy_1000_MW.tsv \
+    --maxlen 200 \
+    --sample_dir ./ \
+    --name qy_top_k_10_temp_0.7.txt \
+    --topk 10 \
+    --temperature 0.7 \
+    --batches 3 \
+    --batch_size 64 \
+    --do_sample
